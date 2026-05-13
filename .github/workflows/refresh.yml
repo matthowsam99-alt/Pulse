@@ -1,0 +1,52 @@
+name: Refresh Data Pipeline
+
+on:
+  schedule:
+    # Run monthly on the 1st at 6am UTC (4pm AEST)
+    - cron: '0 6 1 * *'
+  workflow_dispatch:  # Allow manual trigger from GitHub UI
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Needed to commit output back to repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run RBA fetchers
+        run: python run_pipeline.py --source rba
+        continue-on-error: true  # Don't fail whole pipeline if one source is down
+
+      - name: Run ABS fetchers
+        run: python run_pipeline.py --source abs
+        continue-on-error: true
+
+      - name: Generate manifest
+        run: python -c "from run_pipeline import generate_manifest, copy_to_output; copy_to_output(); generate_manifest()"
+
+      - name: Commit updated data
+        run: |
+          git config user.name "Pulse Pipeline Bot"
+          git config user.email "pipeline@pulse.au"
+          git add data/output/
+          git diff --staged --quiet || git commit -m "chore: refresh data $(date +'%Y-%m-%d')"
+          git push
+
+      - name: Upload output as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pulse-data-${{ github.run_number }}
+          path: data/output/
+          retention-days: 90

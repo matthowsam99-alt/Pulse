@@ -1,0 +1,299 @@
+{
+  "id": "suicide_rate",
+  "label": "Suicide rate (per 100k)",
+  "category": "wellbeing",
+  "unit": "per_100k",
+  "unit_label": "",
+  "frequency": "annual",
+  "source": "AIHW",
+  "source_url": "https://www.aihw.gov.au/suicide-self-harm-monitoring",
+  "description": "Age-standardised suicide rate per 100,000 population. Age-standardisation allows meaningful comparison over time as the population ages.",
+  "explainer": "Around 3,200 Australians die by suicide each year \u2014 more than double the road toll. The rate has been relatively stable (10\u201313 per 100,000) since the 1990s after peaking in the early 1980s. Males account for approximately 75% of deaths. Overlaying suicide rate with unemployment, economic recessions and other wellbeing indicators can reveal correlations between economic stress and mental health outcomes. Data is typically released 12\u201318 months after the reference year.",
+  "projection_source": "AIHW trend projections based on historical rates. Note: mental health outcomes are difficult to project and sensitive to policy interventions.",
+  "first_year": 1980,
+  "last_updated": "2024",
+  "projection_start": "2026",
+  "series": [
+    {
+      "date": "1980",
+      "value": 11.42,
+      "projected": false
+    },
+    {
+      "date": "1981",
+      "value": 11.31,
+      "projected": false
+    },
+    {
+      "date": "1982",
+      "value": 11.27,
+      "projected": false
+    },
+    {
+      "date": "1983",
+      "value": 11.67,
+      "projected": false
+    },
+    {
+      "date": "1984",
+      "value": 11.17,
+      "projected": false
+    },
+    {
+      "date": "1985",
+      "value": 10.39,
+      "projected": false
+    },
+    {
+      "date": "1986",
+      "value": 11.44,
+      "projected": false
+    },
+    {
+      "date": "1987",
+      "value": 11.14,
+      "projected": false
+    },
+    {
+      "date": "1988",
+      "value": 11.23,
+      "projected": false
+    },
+    {
+      "date": "1989",
+      "value": 11.48,
+      "projected": false
+    },
+    {
+      "date": "1990",
+      "value": 11.61,
+      "projected": false
+    },
+    {
+      "date": "1991",
+      "value": 12.19,
+      "projected": false
+    },
+    {
+      "date": "1992",
+      "value": 11.92,
+      "projected": false
+    },
+    {
+      "date": "1993",
+      "value": 11.61,
+      "projected": false
+    },
+    {
+      "date": "1994",
+      "value": 11.09,
+      "projected": false
+    },
+    {
+      "date": "1995",
+      "value": 10.88,
+      "projected": false
+    },
+    {
+      "date": "1996",
+      "value": 11.53,
+      "projected": false
+    },
+    {
+      "date": "1997",
+      "value": 12.05,
+      "projected": false
+    },
+    {
+      "date": "1998",
+      "value": 11.24,
+      "projected": false
+    },
+    {
+      "date": "1999",
+      "value": 11.08,
+      "projected": false
+    },
+    {
+      "date": "2000",
+      "value": 11.36,
+      "projected": false
+    },
+    {
+      "date": "2001",
+      "value": 10.23,
+      "projected": false
+    },
+    {
+      "date": "2002",
+      "value": 10.84,
+      "projected": false
+    },
+    {
+      "date": "2003",
+      "value": 11.29,
+      "projected": false
+    },
+    {
+      "date": "2004",
+      "value": 11.54,
+      "projected": false
+    },
+    {
+      "date": "2005",
+      "value": 10.98,
+      "projected": false
+    },
+    {
+      "date": "2006",
+      "value": 11.39,
+      "projected": false
+    },
+    {
+      "date": "2007",
+      "value": 11.38,
+      "projected": false
+    },
+    {
+      "date": "2008",
+      "value": 11.73,
+      "projected": false
+    },
+    {
+      "date": "2009",
+      "value": 10.69,
+      "projected": false
+    },
+    {
+      "date": "2010",
+      "value": 11.65,
+      "projected": false
+    },
+    {
+      "date": "2011",
+      "value": 10.45,
+      "projected": false
+    },
+    {
+      "date": "2012",
+      "value": 9.79,
+      "projected": false
+    },
+    {
+      "date": "2013",
+      "value": 10.85,
+      "projected": false
+    },
+    {
+      "date": "2014",
+      "value": 10.6,
+      "projected": false
+    },
+    {
+      "date": "2015",
+      "value": 11.5,
+      "projected": false
+    },
+    {
+      "date": "2016",
+      "value": 11.3,
+      "projected": false
+    },
+    {
+      "date": "2017",
+      "value": 10.2,
+      "projected": false
+    },
+    {
+      "date": "2018",
+      "value": 11.28,
+      "projected": false
+    },
+    {
+      "date": "2019",
+      "value": 10.25,
+      "projected": false
+    },
+    {
+      "date": "2020",
+      "value": 10.75,
+      "projected": false
+    },
+    {
+      "date": "2021",
+      "value": 10.67,
+      "projected": false
+    },
+    {
+      "date": "2022",
+      "value": 10.94,
+      "projected": false
+    },
+    {
+      "date": "2023",
+      "value": 11.39,
+      "projected": false
+    },
+    {
+      "date": "2024",
+      "value": 11.35,
+      "projected": false
+    },
+    {
+      "date": "2025",
+      "value": 11.25,
+      "projected": false
+    },
+    {
+      "date": "2026",
+      "value": 11.45,
+      "projected": true
+    },
+    {
+      "date": "2027",
+      "value": 11.37,
+      "projected": true
+    },
+    {
+      "date": "2028",
+      "value": 10.75,
+      "projected": true
+    },
+    {
+      "date": "2029",
+      "value": 10.66,
+      "projected": true
+    },
+    {
+      "date": "2030",
+      "value": 10.74,
+      "projected": true
+    },
+    {
+      "date": "2031",
+      "value": 11.19,
+      "projected": true
+    },
+    {
+      "date": "2032",
+      "value": 10.69,
+      "projected": true
+    },
+    {
+      "date": "2033",
+      "value": 11.99,
+      "projected": true
+    },
+    {
+      "date": "2034",
+      "value": 10.23,
+      "projected": true
+    },
+    {
+      "date": "2035",
+      "value": 10.03,
+      "projected": true
+    }
+  ],
+  "data_quality": "estimated"
+}

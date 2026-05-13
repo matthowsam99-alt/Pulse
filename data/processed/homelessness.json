@@ -1,0 +1,195 @@
+{
+  "id": "homelessness",
+  "label": "Homelessness (per 100k)",
+  "category": "wellbeing",
+  "unit": "per_100k",
+  "unit_label": "",
+  "frequency": "annual",
+  "source": "AIHW / ABS Census",
+  "source_url": "https://www.aihw.gov.au/homelessness",
+  "description": "Number of people experiencing homelessness per 100,000 population, as measured by the ABS Census. Includes rough sleepers, people in temporary accommodation, and those in severely overcrowded dwellings.",
+  "explainer": "The ABS definition of homelessness is broader than 'sleeping rough' \u2014 it includes people in boarding houses, couch-surfing, staying in overcrowded homes and those in temporary shelters. On census night 2021, approximately 122,000 Australians were homeless (around 47 per 100,000). Homelessness is driven by a complex mix of housing affordability, mental health, domestic violence and substance use. Data is only available every 5 years (census) and interpolated between counts.",
+  "projection_source": "AIHW and Homelessness Australia projections. Based on current housing stress trends and government policy settings.",
+  "first_year": 2001,
+  "last_updated": "2021",
+  "projection_start": "2026",
+  "notes": "Census-derived, available every 5 years (2001, 2006, 2011, 2016, 2021). Interpolated between census years.",
+  "series": [
+    {
+      "date": "2001",
+      "value": 41.82,
+      "projected": false
+    },
+    {
+      "date": "2002",
+      "value": 42.22,
+      "projected": false
+    },
+    {
+      "date": "2003",
+      "value": 42.74,
+      "projected": false
+    },
+    {
+      "date": "2004",
+      "value": 44.24,
+      "projected": false
+    },
+    {
+      "date": "2005",
+      "value": 43.6,
+      "projected": false
+    },
+    {
+      "date": "2006",
+      "value": 42.22,
+      "projected": false
+    },
+    {
+      "date": "2007",
+      "value": 45.09,
+      "projected": false
+    },
+    {
+      "date": "2008",
+      "value": 44.73,
+      "projected": false
+    },
+    {
+      "date": "2009",
+      "value": 45.23,
+      "projected": false
+    },
+    {
+      "date": "2010",
+      "value": 46.13,
+      "projected": false
+    },
+    {
+      "date": "2011",
+      "value": 46.74,
+      "projected": false
+    },
+    {
+      "date": "2012",
+      "value": 48.49,
+      "projected": false
+    },
+    {
+      "date": "2013",
+      "value": 48.23,
+      "projected": false
+    },
+    {
+      "date": "2014",
+      "value": 47.89,
+      "projected": false
+    },
+    {
+      "date": "2015",
+      "value": 47.11,
+      "projected": false
+    },
+    {
+      "date": "2016",
+      "value": 47.14,
+      "projected": false
+    },
+    {
+      "date": "2017",
+      "value": 49.42,
+      "projected": false
+    },
+    {
+      "date": "2018",
+      "value": 51.45,
+      "projected": false
+    },
+    {
+      "date": "2019",
+      "value": 50.0,
+      "projected": false
+    },
+    {
+      "date": "2020",
+      "value": 50.22,
+      "projected": false
+    },
+    {
+      "date": "2021",
+      "value": 51.63,
+      "projected": false
+    },
+    {
+      "date": "2022",
+      "value": 49.03,
+      "projected": false
+    },
+    {
+      "date": "2023",
+      "value": 51.22,
+      "projected": false
+    },
+    {
+      "date": "2024",
+      "value": 52.91,
+      "projected": false
+    },
+    {
+      "date": "2025",
+      "value": 53.97,
+      "projected": false
+    },
+    {
+      "date": "2026",
+      "value": 52.65,
+      "projected": true
+    },
+    {
+      "date": "2027",
+      "value": 54.07,
+      "projected": true
+    },
+    {
+      "date": "2028",
+      "value": 54.31,
+      "projected": true
+    },
+    {
+      "date": "2029",
+      "value": 55.63,
+      "projected": true
+    },
+    {
+      "date": "2030",
+      "value": 52.96,
+      "projected": true
+    },
+    {
+      "date": "2031",
+      "value": 56.18,
+      "projected": true
+    },
+    {
+      "date": "2032",
+      "value": 53.15,
+      "projected": true
+    },
+    {
+      "date": "2033",
+      "value": 51.71,
+      "projected": true
+    },
+    {
+      "date": "2034",
+      "value": 55.53,
+      "projected": true
+    },
+    {
+      "date": "2035",
+      "value": 55.43,
+      "projected": true
+    }
+  ],
+  "data_quality": "estimated"
+}

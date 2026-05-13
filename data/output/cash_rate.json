@@ -1,0 +1,240 @@
+{
+  "id": "cash_rate",
+  "label": "Cash rate",
+  "category": "economy",
+  "unit": "%",
+  "unit_label": "%",
+  "frequency": "monthly",
+  "source": "RBA Table A2",
+  "source_url": "https://www.rba.gov.au/statistics/tables/",
+  "description": "The Reserve Bank of Australia's official cash rate target \u2014 the interest rate banks charge each other for overnight loans, which flows through to mortgages, savings accounts and the broader economy.",
+  "explainer": "The cash rate is the RBA's primary lever for controlling inflation. When inflation is too high, the RBA raises rates to slow borrowing and spending. When the economy is weak, it cuts rates to stimulate activity. The rate hit 17.5% during the 1990 recession and 0.1% during Covid \u2014 a 60-year chart shows the full arc of Australia's monetary policy.",
+  "projection_source": "RBA quarterly Statement on Monetary Policy. Market pricing via ASX 30-day interbank futures.",
+  "first_year": 1990,
+  "last_updated": "2026-04",
+  "projection_start": "2026-01",
+  "notes": "Prior to 1990 the cash rate was not formally targeted.",
+  "series": [
+    {
+      "date": "1990-01",
+      "value": 17.5,
+      "projected": false
+    },
+    {
+      "date": "1991-01",
+      "value": 10.5,
+      "projected": false
+    },
+    {
+      "date": "1992-01",
+      "value": 6.5,
+      "projected": false
+    },
+    {
+      "date": "1993-01",
+      "value": 4.75,
+      "projected": false
+    },
+    {
+      "date": "1994-01",
+      "value": 4.75,
+      "projected": false
+    },
+    {
+      "date": "1995-01",
+      "value": 7.5,
+      "projected": false
+    },
+    {
+      "date": "1996-01",
+      "value": 7.5,
+      "projected": false
+    },
+    {
+      "date": "1997-01",
+      "value": 5.5,
+      "projected": false
+    },
+    {
+      "date": "1998-01",
+      "value": 5.0,
+      "projected": false
+    },
+    {
+      "date": "1999-01",
+      "value": 4.75,
+      "projected": false
+    },
+    {
+      "date": "2000-01",
+      "value": 6.25,
+      "projected": false
+    },
+    {
+      "date": "2001-01",
+      "value": 6.25,
+      "projected": false
+    },
+    {
+      "date": "2002-01",
+      "value": 4.25,
+      "projected": false
+    },
+    {
+      "date": "2003-01",
+      "value": 4.75,
+      "projected": false
+    },
+    {
+      "date": "2004-01",
+      "value": 5.25,
+      "projected": false
+    },
+    {
+      "date": "2005-01",
+      "value": 5.5,
+      "projected": false
+    },
+    {
+      "date": "2006-01",
+      "value": 5.5,
+      "projected": false
+    },
+    {
+      "date": "2007-01",
+      "value": 6.25,
+      "projected": false
+    },
+    {
+      "date": "2008-01",
+      "value": 7.25,
+      "projected": false
+    },
+    {
+      "date": "2009-01",
+      "value": 3.25,
+      "projected": false
+    },
+    {
+      "date": "2010-01",
+      "value": 3.75,
+      "projected": false
+    },
+    {
+      "date": "2011-01",
+      "value": 4.75,
+      "projected": false
+    },
+    {
+      "date": "2012-01",
+      "value": 4.25,
+      "projected": false
+    },
+    {
+      "date": "2013-01",
+      "value": 3.0,
+      "projected": false
+    },
+    {
+      "date": "2014-01",
+      "value": 2.5,
+      "projected": false
+    },
+    {
+      "date": "2015-01",
+      "value": 2.25,
+      "projected": false
+    },
+    {
+      "date": "2016-01",
+      "value": 2.0,
+      "projected": false
+    },
+    {
+      "date": "2017-01",
+      "value": 1.5,
+      "projected": false
+    },
+    {
+      "date": "2018-01",
+      "value": 1.5,
+      "projected": false
+    },
+    {
+      "date": "2019-01",
+      "value": 1.5,
+      "projected": false
+    },
+    {
+      "date": "2020-01",
+      "value": 0.75,
+      "projected": false
+    },
+    {
+      "date": "2020-04",
+      "value": 0.25,
+      "projected": false
+    },
+    {
+      "date": "2021-01",
+      "value": 0.1,
+      "projected": false
+    },
+    {
+      "date": "2022-01",
+      "value": 0.1,
+      "projected": false
+    },
+    {
+      "date": "2022-06",
+      "value": 0.85,
+      "projected": false
+    },
+    {
+      "date": "2022-09",
+      "value": 2.35,
+      "projected": false
+    },
+    {
+      "date": "2023-01",
+      "value": 3.1,
+      "projected": false
+    },
+    {
+      "date": "2023-06",
+      "value": 4.1,
+      "projected": false
+    },
+    {
+      "date": "2024-01",
+      "value": 4.35,
+      "projected": false
+    },
+    {
+      "date": "2025-01",
+      "value": 4.1,
+      "projected": false
+    },
+    {
+      "date": "2025-06",
+      "value": 3.85,
+      "projected": false
+    },
+    {
+      "date": "2026-01",
+      "value": 3.5,
+      "projected": true
+    },
+    {
+      "date": "2027-01",
+      "value": 3.25,
+      "projected": true
+    },
+    {
+      "date": "2028-01",
+      "value": 3.0,
+      "projected": true
+    }
+  ],
+  "data_quality": "verified"
+}

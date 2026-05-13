@@ -1,0 +1,324 @@
+{
+  "id": "gdp_per_capita",
+  "label": "GDP per capita",
+  "category": "economy",
+  "unit": "AUD",
+  "unit_label": "$",
+  "frequency": "annual",
+  "source": "ABS 5206.0",
+  "source_url": "https://api.data.abs.gov.au/data/NA_GDP",
+  "description": "Gross Domestic Product divided by population \u2014 the most commonly used measure of average living standards and economic output per person.",
+  "explainer": "GDP per capita measures the total value of goods and services produced in Australia divided by the number of people. It's an imperfect measure of wellbeing \u2014 it doesn't capture inequality, unpaid work, or environmental costs \u2014 but it's the standard international benchmark for comparing economies over time. Australia went 28 years without a recession (1991\u20132020), visible as sustained growth in this series.",
+  "projection_source": "Treasury Intergenerational Report 2023 and Budget 2025\u201326.",
+  "first_year": 1975,
+  "last_updated": "2025",
+  "projection_start": "2026",
+  "series": [
+    {
+      "date": "1975",
+      "value": 5982.71,
+      "projected": false
+    },
+    {
+      "date": "1976",
+      "value": 6257.59,
+      "projected": false
+    },
+    {
+      "date": "1977",
+      "value": 6556.99,
+      "projected": false
+    },
+    {
+      "date": "1978",
+      "value": 6974.1,
+      "projected": false
+    },
+    {
+      "date": "1979",
+      "value": 7179.33,
+      "projected": false
+    },
+    {
+      "date": "1980",
+      "value": 7307.18,
+      "projected": false
+    },
+    {
+      "date": "1981",
+      "value": 7935.82,
+      "projected": false
+    },
+    {
+      "date": "1982",
+      "value": 8206.3,
+      "projected": false
+    },
+    {
+      "date": "1983",
+      "value": 8597.01,
+      "projected": false
+    },
+    {
+      "date": "1984",
+      "value": 9057.37,
+      "projected": false
+    },
+    {
+      "date": "1985",
+      "value": 9501.02,
+      "projected": false
+    },
+    {
+      "date": "1986",
+      "value": 10127.65,
+      "projected": false
+    },
+    {
+      "date": "1987",
+      "value": 10494.09,
+      "projected": false
+    },
+    {
+      "date": "1988",
+      "value": 10864.21,
+      "projected": false
+    },
+    {
+      "date": "1989",
+      "value": 11177.35,
+      "projected": false
+    },
+    {
+      "date": "1990",
+      "value": 11632.06,
+      "projected": false
+    },
+    {
+      "date": "1991",
+      "value": 12486.92,
+      "projected": false
+    },
+    {
+      "date": "1992",
+      "value": 13345.13,
+      "projected": false
+    },
+    {
+      "date": "1993",
+      "value": 13620.84,
+      "projected": false
+    },
+    {
+      "date": "1994",
+      "value": 14212.76,
+      "projected": false
+    },
+    {
+      "date": "1995",
+      "value": 15064.61,
+      "projected": false
+    },
+    {
+      "date": "1996",
+      "value": 15146.47,
+      "projected": false
+    },
+    {
+      "date": "1997",
+      "value": 16224.22,
+      "projected": false
+    },
+    {
+      "date": "1998",
+      "value": 17253.76,
+      "projected": false
+    },
+    {
+      "date": "1999",
+      "value": 18193.94,
+      "projected": false
+    },
+    {
+      "date": "2000",
+      "value": 18623.93,
+      "projected": false
+    },
+    {
+      "date": "2001",
+      "value": 19732.67,
+      "projected": false
+    },
+    {
+      "date": "2002",
+      "value": 20598.63,
+      "projected": false
+    },
+    {
+      "date": "2003",
+      "value": 21786.67,
+      "projected": false
+    },
+    {
+      "date": "2004",
+      "value": 21949.79,
+      "projected": false
+    },
+    {
+      "date": "2005",
+      "value": 23761.7,
+      "projected": false
+    },
+    {
+      "date": "2006",
+      "value": 23843.6,
+      "projected": false
+    },
+    {
+      "date": "2007",
+      "value": 24384.64,
+      "projected": false
+    },
+    {
+      "date": "2008",
+      "value": 26604.05,
+      "projected": false
+    },
+    {
+      "date": "2009",
+      "value": 27668.37,
+      "projected": false
+    },
+    {
+      "date": "2010",
+      "value": 30013.43,
+      "projected": false
+    },
+    {
+      "date": "2011",
+      "value": 31279.87,
+      "projected": false
+    },
+    {
+      "date": "2012",
+      "value": 31519.1,
+      "projected": false
+    },
+    {
+      "date": "2013",
+      "value": 34383.72,
+      "projected": false
+    },
+    {
+      "date": "2014",
+      "value": 34675.41,
+      "projected": false
+    },
+    {
+      "date": "2015",
+      "value": 36967.99,
+      "projected": false
+    },
+    {
+      "date": "2016",
+      "value": 38527.95,
+      "projected": false
+    },
+    {
+      "date": "2017",
+      "value": 40652.72,
+      "projected": false
+    },
+    {
+      "date": "2018",
+      "value": 43143.01,
+      "projected": false
+    },
+    {
+      "date": "2019",
+      "value": 44991.26,
+      "projected": false
+    },
+    {
+      "date": "2020",
+      "value": 46817.39,
+      "projected": false
+    },
+    {
+      "date": "2021",
+      "value": 49288.81,
+      "projected": false
+    },
+    {
+      "date": "2022",
+      "value": 51408.66,
+      "projected": false
+    },
+    {
+      "date": "2023",
+      "value": 52623.55,
+      "projected": false
+    },
+    {
+      "date": "2024",
+      "value": 54972.44,
+      "projected": false
+    },
+    {
+      "date": "2025",
+      "value": 57820.3,
+      "projected": false
+    },
+    {
+      "date": "2026",
+      "value": 61696.13,
+      "projected": true
+    },
+    {
+      "date": "2027",
+      "value": 63609.95,
+      "projected": true
+    },
+    {
+      "date": "2028",
+      "value": 70031.28,
+      "projected": true
+    },
+    {
+      "date": "2029",
+      "value": 68872.99,
+      "projected": true
+    },
+    {
+      "date": "2030",
+      "value": 71669.38,
+      "projected": true
+    },
+    {
+      "date": "2031",
+      "value": 77869.88,
+      "projected": true
+    },
+    {
+      "date": "2032",
+      "value": 82543.65,
+      "projected": true
+    },
+    {
+      "date": "2033",
+      "value": 84847.09,
+      "projected": true
+    },
+    {
+      "date": "2034",
+      "value": 89377.26,
+      "projected": true
+    },
+    {
+      "date": "2035",
+      "value": 94624.47,
+      "projected": true
+    }
+  ],
+  "data_quality": "estimated"
+}

@@ -1,0 +1,324 @@
+{
+  "id": "life_expectancy",
+  "label": "Life expectancy",
+  "category": "wellbeing",
+  "unit": "years",
+  "unit_label": " yrs",
+  "frequency": "annual",
+  "source": "AIHW / ABS",
+  "source_url": "https://www.aihw.gov.au/reports/life-expectancy-death",
+  "description": "Life expectancy at birth, total persons \u2014 the average number of years a newborn would live if current mortality rates applied throughout their life.",
+  "explainer": "Australia has one of the highest life expectancies in the world, rising from 71 years in 1975 to 83.4 years today. This reflects improvements in healthcare, reduced smoking rates, better nutrition and lower rates of workplace accidents. However, Covid caused a slight dip in 2021. There are significant disparities \u2014 Aboriginal and Torres Strait Islander Australians have a life expectancy roughly 8 years lower than the national average.",
+  "projection_source": "Treasury Intergenerational Report 2023. Projects life expectancy reaching 89 years for men and 91 years for women by 2063.",
+  "first_year": 1975,
+  "last_updated": "2025",
+  "projection_start": "2026",
+  "series": [
+    {
+      "date": "1975",
+      "value": 71.48,
+      "projected": false
+    },
+    {
+      "date": "1976",
+      "value": 71.73,
+      "projected": false
+    },
+    {
+      "date": "1977",
+      "value": 71.98,
+      "projected": false
+    },
+    {
+      "date": "1978",
+      "value": 72.35,
+      "projected": false
+    },
+    {
+      "date": "1979",
+      "value": 72.48,
+      "projected": false
+    },
+    {
+      "date": "1980",
+      "value": 72.53,
+      "projected": false
+    },
+    {
+      "date": "1981",
+      "value": 73.05,
+      "projected": false
+    },
+    {
+      "date": "1982",
+      "value": 73.21,
+      "projected": false
+    },
+    {
+      "date": "1983",
+      "value": 73.47,
+      "projected": false
+    },
+    {
+      "date": "1984",
+      "value": 73.77,
+      "projected": false
+    },
+    {
+      "date": "1985",
+      "value": 74.03,
+      "projected": false
+    },
+    {
+      "date": "1986",
+      "value": 74.42,
+      "projected": false
+    },
+    {
+      "date": "1987",
+      "value": 74.6,
+      "projected": false
+    },
+    {
+      "date": "1988",
+      "value": 74.77,
+      "projected": false
+    },
+    {
+      "date": "1989",
+      "value": 74.89,
+      "projected": false
+    },
+    {
+      "date": "1990",
+      "value": 75.1,
+      "projected": false
+    },
+    {
+      "date": "1991",
+      "value": 75.54,
+      "projected": false
+    },
+    {
+      "date": "1992",
+      "value": 75.95,
+      "projected": false
+    },
+    {
+      "date": "1993",
+      "value": 76.01,
+      "projected": false
+    },
+    {
+      "date": "1994",
+      "value": 76.23,
+      "projected": false
+    },
+    {
+      "date": "1995",
+      "value": 76.58,
+      "projected": false
+    },
+    {
+      "date": "1996",
+      "value": 76.53,
+      "projected": false
+    },
+    {
+      "date": "1997",
+      "value": 76.95,
+      "projected": false
+    },
+    {
+      "date": "1998",
+      "value": 77.33,
+      "projected": false
+    },
+    {
+      "date": "1999",
+      "value": 77.64,
+      "projected": false
+    },
+    {
+      "date": "2000",
+      "value": 77.71,
+      "projected": false
+    },
+    {
+      "date": "2001",
+      "value": 78.06,
+      "projected": false
+    },
+    {
+      "date": "2002",
+      "value": 78.29,
+      "projected": false
+    },
+    {
+      "date": "2003",
+      "value": 78.62,
+      "projected": false
+    },
+    {
+      "date": "2004",
+      "value": 78.57,
+      "projected": false
+    },
+    {
+      "date": "2005",
+      "value": 79.09,
+      "projected": false
+    },
+    {
+      "date": "2006",
+      "value": 79.01,
+      "projected": false
+    },
+    {
+      "date": "2007",
+      "value": 79.08,
+      "projected": false
+    },
+    {
+      "date": "2008",
+      "value": 79.65,
+      "projected": false
+    },
+    {
+      "date": "2009",
+      "value": 79.85,
+      "projected": false
+    },
+    {
+      "date": "2010",
+      "value": 80.39,
+      "projected": false
+    },
+    {
+      "date": "2011",
+      "value": 80.61,
+      "projected": false
+    },
+    {
+      "date": "2012",
+      "value": 80.55,
+      "projected": false
+    },
+    {
+      "date": "2013",
+      "value": 81.14,
+      "projected": false
+    },
+    {
+      "date": "2014",
+      "value": 81.09,
+      "projected": false
+    },
+    {
+      "date": "2015",
+      "value": 81.49,
+      "projected": false
+    },
+    {
+      "date": "2016",
+      "value": 81.7,
+      "projected": false
+    },
+    {
+      "date": "2017",
+      "value": 82.02,
+      "projected": false
+    },
+    {
+      "date": "2018",
+      "value": 82.38,
+      "projected": false
+    },
+    {
+      "date": "2019",
+      "value": 82.61,
+      "projected": false
+    },
+    {
+      "date": "2020",
+      "value": 82.81,
+      "projected": false
+    },
+    {
+      "date": "2021",
+      "value": 83.11,
+      "projected": false
+    },
+    {
+      "date": "2022",
+      "value": 83.33,
+      "projected": false
+    },
+    {
+      "date": "2023",
+      "value": 83.4,
+      "projected": false
+    },
+    {
+      "date": "2024",
+      "value": 83.63,
+      "projected": false
+    },
+    {
+      "date": "2025",
+      "value": 83.92,
+      "projected": false
+    },
+    {
+      "date": "2026",
+      "value": 84.33,
+      "projected": true
+    },
+    {
+      "date": "2027",
+      "value": 84.46,
+      "projected": true
+    },
+    {
+      "date": "2028",
+      "value": 85.15,
+      "projected": true
+    },
+    {
+      "date": "2029",
+      "value": 84.86,
+      "projected": true
+    },
+    {
+      "date": "2030",
+      "value": 85.06,
+      "projected": true
+    },
+    {
+      "date": "2031",
+      "value": 85.63,
+      "projected": true
+    },
+    {
+      "date": "2032",
+      "value": 85.99,
+      "projected": true
+    },
+    {
+      "date": "2033",
+      "value": 86.09,
+      "projected": true
+    },
+    {
+      "date": "2034",
+      "value": 86.39,
+      "projected": true
+    },
+    {
+      "date": "2035",
+      "value": 86.75,
+      "projected": true
+    }
+  ],
+  "data_quality": "estimated"
+}

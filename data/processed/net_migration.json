@@ -1,0 +1,319 @@
+{
+  "id": "net_migration",
+  "label": "Net overseas migration",
+  "category": "demographics",
+  "unit": "count",
+  "unit_label": "",
+  "frequency": "annual",
+  "source": "ABS 3101.0",
+  "source_url": "https://api.data.abs.gov.au/data/NOM",
+  "description": "Net overseas migration \u2014 the number of people arriving in Australia to stay 12+ months, minus those leaving. Includes skilled migrants, international students, working holiday makers and humanitarian entrants.",
+  "explainer": "Net migration = long-term arrivals minus long-term departures. The post-Covid spike to ~548,000 in 2022\u201323 reflects Australia reopening its borders, a backlog of approximately 1 million visa applications that accumulated during closure, and a surge in international students. The negative figure in 2020 reflects border closures. Migration is Australia's primary population growth driver and has an outsized effect on housing demand \u2014 the 2022\u201323 spike arriving into an already undersupplied rental market directly caused the rental crisis.",
+  "projection_source": "Treasury Intergenerational Report 2023. Projects net migration moderating to approximately 235,000 per year by 2026, remaining elevated relative to the pre-Covid average of around 200,000.",
+  "first_year": 1976,
+  "last_updated": "2025",
+  "projection_start": "2026",
+  "series": [
+    {
+      "date": "1976",
+      "value": 52000,
+      "projected": false
+    },
+    {
+      "date": "1977",
+      "value": 48000,
+      "projected": false
+    },
+    {
+      "date": "1978",
+      "value": 45000,
+      "projected": false
+    },
+    {
+      "date": "1979",
+      "value": 55000,
+      "projected": false
+    },
+    {
+      "date": "1980",
+      "value": 87000,
+      "projected": false
+    },
+    {
+      "date": "1981",
+      "value": 95000,
+      "projected": false
+    },
+    {
+      "date": "1982",
+      "value": 75000,
+      "projected": false
+    },
+    {
+      "date": "1983",
+      "value": 42000,
+      "projected": false
+    },
+    {
+      "date": "1984",
+      "value": 68000,
+      "projected": false
+    },
+    {
+      "date": "1985",
+      "value": 92000,
+      "projected": false
+    },
+    {
+      "date": "1986",
+      "value": 97000,
+      "projected": false
+    },
+    {
+      "date": "1987",
+      "value": 110000,
+      "projected": false
+    },
+    {
+      "date": "1988",
+      "value": 145000,
+      "projected": false
+    },
+    {
+      "date": "1989",
+      "value": 148000,
+      "projected": false
+    },
+    {
+      "date": "1990",
+      "value": 121000,
+      "projected": false
+    },
+    {
+      "date": "1991",
+      "value": 74000,
+      "projected": false
+    },
+    {
+      "date": "1992",
+      "value": 52000,
+      "projected": false
+    },
+    {
+      "date": "1993",
+      "value": 45000,
+      "projected": false
+    },
+    {
+      "date": "1994",
+      "value": 68000,
+      "projected": false
+    },
+    {
+      "date": "1995",
+      "value": 82000,
+      "projected": false
+    },
+    {
+      "date": "1996",
+      "value": 85000,
+      "projected": false
+    },
+    {
+      "date": "1997",
+      "value": 72000,
+      "projected": false
+    },
+    {
+      "date": "1998",
+      "value": 77000,
+      "projected": false
+    },
+    {
+      "date": "1999",
+      "value": 95000,
+      "projected": false
+    },
+    {
+      "date": "2000",
+      "value": 107000,
+      "projected": false
+    },
+    {
+      "date": "2001",
+      "value": 115000,
+      "projected": false
+    },
+    {
+      "date": "2002",
+      "value": 118000,
+      "projected": false
+    },
+    {
+      "date": "2003",
+      "value": 110000,
+      "projected": false
+    },
+    {
+      "date": "2004",
+      "value": 120000,
+      "projected": false
+    },
+    {
+      "date": "2005",
+      "value": 132000,
+      "projected": false
+    },
+    {
+      "date": "2006",
+      "value": 158000,
+      "projected": false
+    },
+    {
+      "date": "2007",
+      "value": 177000,
+      "projected": false
+    },
+    {
+      "date": "2008",
+      "value": 215000,
+      "projected": false
+    },
+    {
+      "date": "2009",
+      "value": 228000,
+      "projected": false
+    },
+    {
+      "date": "2010",
+      "value": 180000,
+      "projected": false
+    },
+    {
+      "date": "2011",
+      "value": 168000,
+      "projected": false
+    },
+    {
+      "date": "2012",
+      "value": 178000,
+      "projected": false
+    },
+    {
+      "date": "2013",
+      "value": 195000,
+      "projected": false
+    },
+    {
+      "date": "2014",
+      "value": 185000,
+      "projected": false
+    },
+    {
+      "date": "2015",
+      "value": 168000,
+      "projected": false
+    },
+    {
+      "date": "2016",
+      "value": 182000,
+      "projected": false
+    },
+    {
+      "date": "2017",
+      "value": 240000,
+      "projected": false
+    },
+    {
+      "date": "2018",
+      "value": 232000,
+      "projected": false
+    },
+    {
+      "date": "2019",
+      "value": 239000,
+      "projected": false
+    },
+    {
+      "date": "2020",
+      "value": -97000,
+      "projected": false
+    },
+    {
+      "date": "2021",
+      "value": 11000,
+      "projected": false
+    },
+    {
+      "date": "2022",
+      "value": 387000,
+      "projected": false
+    },
+    {
+      "date": "2023",
+      "value": 548000,
+      "projected": false
+    },
+    {
+      "date": "2024",
+      "value": 395000,
+      "projected": false
+    },
+    {
+      "date": "2025",
+      "value": 310000,
+      "projected": false
+    },
+    {
+      "date": "2026",
+      "value": 260000,
+      "projected": true
+    },
+    {
+      "date": "2027",
+      "value": 245000,
+      "projected": true
+    },
+    {
+      "date": "2028",
+      "value": 240000,
+      "projected": true
+    },
+    {
+      "date": "2029",
+      "value": 238000,
+      "projected": true
+    },
+    {
+      "date": "2030",
+      "value": 235000,
+      "projected": true
+    },
+    {
+      "date": "2031",
+      "value": 235000,
+      "projected": true
+    },
+    {
+      "date": "2032",
+      "value": 235000,
+      "projected": true
+    },
+    {
+      "date": "2033",
+      "value": 235000,
+      "projected": true
+    },
+    {
+      "date": "2034",
+      "value": 235000,
+      "projected": true
+    },
+    {
+      "date": "2035",
+      "value": 235000,
+      "projected": true
+    }
+  ],
+  "data_quality": "verified"
+}

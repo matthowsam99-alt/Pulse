@@ -1,0 +1,3679 @@
+{
+  "id": "gold_aud",
+  "label": "Gold spot price (AUD)",
+  "category": "economy",
+  "unit": "AUD",
+  "unit_label": "$",
+  "frequency": "monthly",
+  "source": "RBA Table G5",
+  "source_url": "https://www.rba.gov.au/statistics/tables/",
+  "description": "Gold spot price in Australian dollars per troy ounce. Gold is widely regarded as a store of value and a safe-haven asset during times of economic or geopolitical uncertainty.",
+  "explainer": "Gold tends to rise when investors are fearful \u2014 during the GFC, Covid, and Ukraine war, gold surged as investors fled to safety. In AUD terms, gold also benefits when the Australian dollar weakens (a falling AUD makes gold cheaper for foreign buyers and more expensive in local terms). Australia is the world's second-largest gold producer, so gold prices also affect mining sector revenues and the ASX.",
+  "projection_source": "World Bank Commodity Price Forecasts. Gold price projections are highly uncertain.",
+  "first_year": 1975,
+  "last_updated": "2026-04",
+  "projection_start": "2026-01",
+  "series": [
+    {
+      "date": "1975-01",
+      "value": 158.85,
+      "projected": false
+    },
+    {
+      "date": "1975-02",
+      "value": 159.37,
+      "projected": false
+    },
+    {
+      "date": "1975-03",
+      "value": 160.63,
+      "projected": false
+    },
+    {
+      "date": "1975-04",
+      "value": 168.0,
+      "projected": false
+    },
+    {
+      "date": "1975-05",
+      "value": 162.04,
+      "projected": false
+    },
+    {
+      "date": "1975-06",
+      "value": 151.59,
+      "projected": false
+    },
+    {
+      "date": "1975-07",
+      "value": 167.37,
+      "projected": false
+    },
+    {
+      "date": "1975-08",
+      "value": 163.21,
+      "projected": false
+    },
+    {
+      "date": "1975-09",
+      "value": 164.41,
+      "projected": false
+    },
+    {
+      "date": "1975-10",
+      "value": 167.97,
+      "projected": false
+    },
+    {
+      "date": "1975-11",
+      "value": 169.75,
+      "projected": false
+    },
+    {
+      "date": "1975-12",
+      "value": 178.41,
+      "projected": false
+    },
+    {
+      "date": "1976-01",
+      "value": 174.97,
+      "projected": false
+    },
+    {
+      "date": "1976-02",
+      "value": 171.16,
+      "projected": false
+    },
+    {
+      "date": "1976-03",
+      "value": 164.72,
+      "projected": false
+    },
+    {
+      "date": "1976-04",
+      "value": 163.13,
+      "projected": false
+    },
+    {
+      "date": "1976-05",
+      "value": 174.79,
+      "projected": false
+    },
+    {
+      "date": "1976-06",
+      "value": 184.87,
+      "projected": false
+    },
+    {
+      "date": "1976-07",
+      "value": 174.68,
+      "projected": false
+    },
+    {
+      "date": "1976-08",
+      "value": 174.22,
+      "projected": false
+    },
+    {
+      "date": "1976-09",
+      "value": 180.67,
+      "projected": false
+    },
+    {
+      "date": "1976-10",
+      "value": 163.98,
+      "projected": false
+    },
+    {
+      "date": "1976-11",
+      "value": 174.9,
+      "projected": false
+    },
+    {
+      "date": "1976-12",
+      "value": 182.9,
+      "projected": false
+    },
+    {
+      "date": "1977-01",
+      "value": 187.21,
+      "projected": false
+    },
+    {
+      "date": "1977-02",
+      "value": 178.06,
+      "projected": false
+    },
+    {
+      "date": "1977-03",
+      "value": 184.5,
+      "projected": false
+    },
+    {
+      "date": "1977-04",
+      "value": 184.21,
+      "projected": false
+    },
+    {
+      "date": "1977-05",
+      "value": 189.97,
+      "projected": false
+    },
+    {
+      "date": "1977-06",
+      "value": 173.47,
+      "projected": false
+    },
+    {
+      "date": "1977-07",
+      "value": 189.82,
+      "projected": false
+    },
+    {
+      "date": "1977-08",
+      "value": 171.41,
+      "projected": false
+    },
+    {
+      "date": "1977-09",
+      "value": 161.93,
+      "projected": false
+    },
+    {
+      "date": "1977-10",
+      "value": 181.55,
+      "projected": false
+    },
+    {
+      "date": "1977-11",
+      "value": 179.51,
+      "projected": false
+    },
+    {
+      "date": "1977-12",
+      "value": 197.3,
+      "projected": false
+    },
+    {
+      "date": "1978-01",
+      "value": 196.23,
+      "projected": false
+    },
+    {
+      "date": "1978-02",
+      "value": 179.2,
+      "projected": false
+    },
+    {
+      "date": "1978-03",
+      "value": 199.86,
+      "projected": false
+    },
+    {
+      "date": "1978-04",
+      "value": 183.0,
+      "projected": false
+    },
+    {
+      "date": "1978-05",
+      "value": 192.74,
+      "projected": false
+    },
+    {
+      "date": "1978-06",
+      "value": 191.64,
+      "projected": false
+    },
+    {
+      "date": "1978-07",
+      "value": 196.55,
+      "projected": false
+    },
+    {
+      "date": "1978-08",
+      "value": 204.4,
+      "projected": false
+    },
+    {
+      "date": "1978-09",
+      "value": 203.6,
+      "projected": false
+    },
+    {
+      "date": "1978-10",
+      "value": 201.71,
+      "projected": false
+    },
+    {
+      "date": "1978-11",
+      "value": 205.66,
+      "projected": false
+    },
+    {
+      "date": "1978-12",
+      "value": 204.93,
+      "projected": false
+    },
+    {
+      "date": "1979-01",
+      "value": 194.79,
+      "projected": false
+    },
+    {
+      "date": "1979-02",
+      "value": 194.8,
+      "projected": false
+    },
+    {
+      "date": "1979-03",
+      "value": 198.25,
+      "projected": false
+    },
+    {
+      "date": "1979-04",
+      "value": 209.08,
+      "projected": false
+    },
+    {
+      "date": "1979-05",
+      "value": 202.4,
+      "projected": false
+    },
+    {
+      "date": "1979-06",
+      "value": 229.99,
+      "projected": false
+    },
+    {
+      "date": "1979-07",
+      "value": 198.44,
+      "projected": false
+    },
+    {
+      "date": "1979-08",
+      "value": 196.49,
+      "projected": false
+    },
+    {
+      "date": "1979-09",
+      "value": 216.93,
+      "projected": false
+    },
+    {
+      "date": "1979-10",
+      "value": 224.82,
+      "projected": false
+    },
+    {
+      "date": "1979-11",
+      "value": 216.23,
+      "projected": false
+    },
+    {
+      "date": "1979-12",
+      "value": 220.76,
+      "projected": false
+    },
+    {
+      "date": "1980-01",
+      "value": 228.1,
+      "projected": false
+    },
+    {
+      "date": "1980-02",
+      "value": 212.93,
+      "projected": false
+    },
+    {
+      "date": "1980-03",
+      "value": 199.66,
+      "projected": false
+    },
+    {
+      "date": "1980-04",
+      "value": 210.24,
+      "projected": false
+    },
+    {
+      "date": "1980-05",
+      "value": 227.35,
+      "projected": false
+    },
+    {
+      "date": "1980-06",
+      "value": 202.31,
+      "projected": false
+    },
+    {
+      "date": "1980-07",
+      "value": 219.46,
+      "projected": false
+    },
+    {
+      "date": "1980-08",
+      "value": 222.92,
+      "projected": false
+    },
+    {
+      "date": "1980-09",
+      "value": 217.7,
+      "projected": false
+    },
+    {
+      "date": "1980-10",
+      "value": 230.28,
+      "projected": false
+    },
+    {
+      "date": "1980-11",
+      "value": 229.79,
+      "projected": false
+    },
+    {
+      "date": "1980-12",
+      "value": 250.41,
+      "projected": false
+    },
+    {
+      "date": "1981-01",
+      "value": 232.43,
+      "projected": false
+    },
+    {
+      "date": "1981-02",
+      "value": 219.62,
+      "projected": false
+    },
+    {
+      "date": "1981-03",
+      "value": 221.21,
+      "projected": false
+    },
+    {
+      "date": "1981-04",
+      "value": 219.18,
+      "projected": false
+    },
+    {
+      "date": "1981-05",
+      "value": 240.72,
+      "projected": false
+    },
+    {
+      "date": "1981-06",
+      "value": 224.33,
+      "projected": false
+    },
+    {
+      "date": "1981-07",
+      "value": 231.16,
+      "projected": false
+    },
+    {
+      "date": "1981-08",
+      "value": 241.82,
+      "projected": false
+    },
+    {
+      "date": "1981-09",
+      "value": 225.72,
+      "projected": false
+    },
+    {
+      "date": "1981-10",
+      "value": 231.86,
+      "projected": false
+    },
+    {
+      "date": "1981-11",
+      "value": 214.67,
+      "projected": false
+    },
+    {
+      "date": "1981-12",
+      "value": 224.71,
+      "projected": false
+    },
+    {
+      "date": "1982-01",
+      "value": 231.92,
+      "projected": false
+    },
+    {
+      "date": "1982-02",
+      "value": 244.83,
+      "projected": false
+    },
+    {
+      "date": "1982-03",
+      "value": 255.36,
+      "projected": false
+    },
+    {
+      "date": "1982-04",
+      "value": 241.91,
+      "projected": false
+    },
+    {
+      "date": "1982-05",
+      "value": 246.47,
+      "projected": false
+    },
+    {
+      "date": "1982-06",
+      "value": 246.5,
+      "projected": false
+    },
+    {
+      "date": "1982-07",
+      "value": 258.94,
+      "projected": false
+    },
+    {
+      "date": "1982-08",
+      "value": 257.81,
+      "projected": false
+    },
+    {
+      "date": "1982-09",
+      "value": 251.36,
+      "projected": false
+    },
+    {
+      "date": "1982-10",
+      "value": 236.56,
+      "projected": false
+    },
+    {
+      "date": "1982-11",
+      "value": 261.65,
+      "projected": false
+    },
+    {
+      "date": "1982-12",
+      "value": 256.33,
+      "projected": false
+    },
+    {
+      "date": "1983-01",
+      "value": 268.24,
+      "projected": false
+    },
+    {
+      "date": "1983-02",
+      "value": 253.57,
+      "projected": false
+    },
+    {
+      "date": "1983-03",
+      "value": 280.07,
+      "projected": false
+    },
+    {
+      "date": "1983-04",
+      "value": 251.77,
+      "projected": false
+    },
+    {
+      "date": "1983-05",
+      "value": 278.12,
+      "projected": false
+    },
+    {
+      "date": "1983-06",
+      "value": 260.32,
+      "projected": false
+    },
+    {
+      "date": "1983-07",
+      "value": 253.35,
+      "projected": false
+    },
+    {
+      "date": "1983-08",
+      "value": 246.56,
+      "projected": false
+    },
+    {
+      "date": "1983-09",
+      "value": 260.57,
+      "projected": false
+    },
+    {
+      "date": "1983-10",
+      "value": 282.58,
+      "projected": false
+    },
+    {
+      "date": "1983-11",
+      "value": 275.89,
+      "projected": false
+    },
+    {
+      "date": "1983-12",
+      "value": 275.5,
+      "projected": false
+    },
+    {
+      "date": "1984-01",
+      "value": 235.81,
+      "projected": false
+    },
+    {
+      "date": "1984-02",
+      "value": 278.44,
+      "projected": false
+    },
+    {
+      "date": "1984-03",
+      "value": 277.67,
+      "projected": false
+    },
+    {
+      "date": "1984-04",
+      "value": 263.99,
+      "projected": false
+    },
+    {
+      "date": "1984-05",
+      "value": 264.19,
+      "projected": false
+    },
+    {
+      "date": "1984-06",
+      "value": 274.02,
+      "projected": false
+    },
+    {
+      "date": "1984-07",
+      "value": 299.11,
+      "projected": false
+    },
+    {
+      "date": "1984-08",
+      "value": 262.08,
+      "projected": false
+    },
+    {
+      "date": "1984-09",
+      "value": 272.05,
+      "projected": false
+    },
+    {
+      "date": "1984-10",
+      "value": 298.34,
+      "projected": false
+    },
+    {
+      "date": "1984-11",
+      "value": 274.39,
+      "projected": false
+    },
+    {
+      "date": "1984-12",
+      "value": 276.86,
+      "projected": false
+    },
+    {
+      "date": "1985-01",
+      "value": 284.73,
+      "projected": false
+    },
+    {
+      "date": "1985-02",
+      "value": 267.02,
+      "projected": false
+    },
+    {
+      "date": "1985-03",
+      "value": 289.2,
+      "projected": false
+    },
+    {
+      "date": "1985-04",
+      "value": 270.03,
+      "projected": false
+    },
+    {
+      "date": "1985-05",
+      "value": 301.57,
+      "projected": false
+    },
+    {
+      "date": "1985-06",
+      "value": 290.21,
+      "projected": false
+    },
+    {
+      "date": "1985-07",
+      "value": 324.84,
+      "projected": false
+    },
+    {
+      "date": "1985-08",
+      "value": 297.06,
+      "projected": false
+    },
+    {
+      "date": "1985-09",
+      "value": 314.44,
+      "projected": false
+    },
+    {
+      "date": "1985-10",
+      "value": 276.48,
+      "projected": false
+    },
+    {
+      "date": "1985-11",
+      "value": 295.35,
+      "projected": false
+    },
+    {
+      "date": "1985-12",
+      "value": 303.4,
+      "projected": false
+    },
+    {
+      "date": "1986-01",
+      "value": 326.19,
+      "projected": false
+    },
+    {
+      "date": "1986-02",
+      "value": 276.1,
+      "projected": false
+    },
+    {
+      "date": "1986-03",
+      "value": 317.88,
+      "projected": false
+    },
+    {
+      "date": "1986-04",
+      "value": 313.32,
+      "projected": false
+    },
+    {
+      "date": "1986-05",
+      "value": 329.22,
+      "projected": false
+    },
+    {
+      "date": "1986-06",
+      "value": 318.18,
+      "projected": false
+    },
+    {
+      "date": "1986-07",
+      "value": 309.5,
+      "projected": false
+    },
+    {
+      "date": "1986-08",
+      "value": 302.08,
+      "projected": false
+    },
+    {
+      "date": "1986-09",
+      "value": 292.2,
+      "projected": false
+    },
+    {
+      "date": "1986-10",
+      "value": 316.2,
+      "projected": false
+    },
+    {
+      "date": "1986-11",
+      "value": 311.62,
+      "projected": false
+    },
+    {
+      "date": "1986-12",
+      "value": 348.07,
+      "projected": false
+    },
+    {
+      "date": "1987-01",
+      "value": 307.94,
+      "projected": false
+    },
+    {
+      "date": "1987-02",
+      "value": 324.28,
+      "projected": false
+    },
+    {
+      "date": "1987-03",
+      "value": 295.53,
+      "projected": false
+    },
+    {
+      "date": "1987-04",
+      "value": 315.85,
+      "projected": false
+    },
+    {
+      "date": "1987-05",
+      "value": 327.98,
+      "projected": false
+    },
+    {
+      "date": "1987-06",
+      "value": 338.7,
+      "projected": false
+    },
+    {
+      "date": "1987-07",
+      "value": 350.52,
+      "projected": false
+    },
+    {
+      "date": "1987-08",
+      "value": 327.69,
+      "projected": false
+    },
+    {
+      "date": "1987-09",
+      "value": 311.55,
+      "projected": false
+    },
+    {
+      "date": "1987-10",
+      "value": 339.15,
+      "projected": false
+    },
+    {
+      "date": "1987-11",
+      "value": 341.75,
+      "projected": false
+    },
+    {
+      "date": "1987-12",
+      "value": 342.96,
+      "projected": false
+    },
+    {
+      "date": "1988-01",
+      "value": 324.55,
+      "projected": false
+    },
+    {
+      "date": "1988-02",
+      "value": 357.09,
+      "projected": false
+    },
+    {
+      "date": "1988-03",
+      "value": 341.04,
+      "projected": false
+    },
+    {
+      "date": "1988-04",
+      "value": 353.11,
+      "projected": false
+    },
+    {
+      "date": "1988-05",
+      "value": 364.64,
+      "projected": false
+    },
+    {
+      "date": "1988-06",
+      "value": 354.93,
+      "projected": false
+    },
+    {
+      "date": "1988-07",
+      "value": 351.04,
+      "projected": false
+    },
+    {
+      "date": "1988-08",
+      "value": 385.16,
+      "projected": false
+    },
+    {
+      "date": "1988-09",
+      "value": 353.65,
+      "projected": false
+    },
+    {
+      "date": "1988-10",
+      "value": 345.86,
+      "projected": false
+    },
+    {
+      "date": "1988-11",
+      "value": 354.71,
+      "projected": false
+    },
+    {
+      "date": "1988-12",
+      "value": 380.69,
+      "projected": false
+    },
+    {
+      "date": "1989-01",
+      "value": 358.22,
+      "projected": false
+    },
+    {
+      "date": "1989-02",
+      "value": 367.1,
+      "projected": false
+    },
+    {
+      "date": "1989-03",
+      "value": 381.01,
+      "projected": false
+    },
+    {
+      "date": "1989-04",
+      "value": 351.97,
+      "projected": false
+    },
+    {
+      "date": "1989-05",
+      "value": 331.63,
+      "projected": false
+    },
+    {
+      "date": "1989-06",
+      "value": 370.15,
+      "projected": false
+    },
+    {
+      "date": "1989-07",
+      "value": 370.64,
+      "projected": false
+    },
+    {
+      "date": "1989-08",
+      "value": 356.99,
+      "projected": false
+    },
+    {
+      "date": "1989-09",
+      "value": 386.05,
+      "projected": false
+    },
+    {
+      "date": "1989-10",
+      "value": 383.0,
+      "projected": false
+    },
+    {
+      "date": "1989-11",
+      "value": 354.9,
+      "projected": false
+    },
+    {
+      "date": "1989-12",
+      "value": 384.99,
+      "projected": false
+    },
+    {
+      "date": "1990-01",
+      "value": 373.36,
+      "projected": false
+    },
+    {
+      "date": "1990-02",
+      "value": 350.76,
+      "projected": false
+    },
+    {
+      "date": "1990-03",
+      "value": 389.28,
+      "projected": false
+    },
+    {
+      "date": "1990-04",
+      "value": 381.61,
+      "projected": false
+    },
+    {
+      "date": "1990-05",
+      "value": 369.98,
+      "projected": false
+    },
+    {
+      "date": "1990-06",
+      "value": 396.24,
+      "projected": false
+    },
+    {
+      "date": "1990-07",
+      "value": 397.45,
+      "projected": false
+    },
+    {
+      "date": "1990-08",
+      "value": 378.58,
+      "projected": false
+    },
+    {
+      "date": "1990-09",
+      "value": 399.54,
+      "projected": false
+    },
+    {
+      "date": "1990-10",
+      "value": 413.54,
+      "projected": false
+    },
+    {
+      "date": "1990-11",
+      "value": 381.35,
+      "projected": false
+    },
+    {
+      "date": "1990-12",
+      "value": 404.9,
+      "projected": false
+    },
+    {
+      "date": "1991-01",
+      "value": 399.28,
+      "projected": false
+    },
+    {
+      "date": "1991-02",
+      "value": 446.58,
+      "projected": false
+    },
+    {
+      "date": "1991-03",
+      "value": 365.52,
+      "projected": false
+    },
+    {
+      "date": "1991-04",
+      "value": 419.05,
+      "projected": false
+    },
+    {
+      "date": "1991-05",
+      "value": 400.68,
+      "projected": false
+    },
+    {
+      "date": "1991-06",
+      "value": 406.8,
+      "projected": false
+    },
+    {
+      "date": "1991-07",
+      "value": 449.86,
+      "projected": false
+    },
+    {
+      "date": "1991-08",
+      "value": 412.59,
+      "projected": false
+    },
+    {
+      "date": "1991-09",
+      "value": 461.2,
+      "projected": false
+    },
+    {
+      "date": "1991-10",
+      "value": 407.5,
+      "projected": false
+    },
+    {
+      "date": "1991-11",
+      "value": 426.04,
+      "projected": false
+    },
+    {
+      "date": "1991-12",
+      "value": 410.38,
+      "projected": false
+    },
+    {
+      "date": "1992-01",
+      "value": 408.11,
+      "projected": false
+    },
+    {
+      "date": "1992-02",
+      "value": 426.05,
+      "projected": false
+    },
+    {
+      "date": "1992-03",
+      "value": 420.72,
+      "projected": false
+    },
+    {
+      "date": "1992-04",
+      "value": 433.13,
+      "projected": false
+    },
+    {
+      "date": "1992-05",
+      "value": 385.49,
+      "projected": false
+    },
+    {
+      "date": "1992-06",
+      "value": 476.24,
+      "projected": false
+    },
+    {
+      "date": "1992-07",
+      "value": 431.33,
+      "projected": false
+    },
+    {
+      "date": "1992-08",
+      "value": 475.12,
+      "projected": false
+    },
+    {
+      "date": "1992-09",
+      "value": 417.01,
+      "projected": false
+    },
+    {
+      "date": "1992-10",
+      "value": 447.67,
+      "projected": false
+    },
+    {
+      "date": "1992-11",
+      "value": 513.48,
+      "projected": false
+    },
+    {
+      "date": "1992-12",
+      "value": 426.07,
+      "projected": false
+    },
+    {
+      "date": "1993-01",
+      "value": 414.11,
+      "projected": false
+    },
+    {
+      "date": "1993-02",
+      "value": 437.42,
+      "projected": false
+    },
+    {
+      "date": "1993-03",
+      "value": 462.53,
+      "projected": false
+    },
+    {
+      "date": "1993-04",
+      "value": 469.75,
+      "projected": false
+    },
+    {
+      "date": "1993-05",
+      "value": 485.61,
+      "projected": false
+    },
+    {
+      "date": "1993-06",
+      "value": 452.46,
+      "projected": false
+    },
+    {
+      "date": "1993-07",
+      "value": 423.65,
+      "projected": false
+    },
+    {
+      "date": "1993-08",
+      "value": 452.68,
+      "projected": false
+    },
+    {
+      "date": "1993-09",
+      "value": 493.78,
+      "projected": false
+    },
+    {
+      "date": "1993-10",
+      "value": 478.05,
+      "projected": false
+    },
+    {
+      "date": "1993-11",
+      "value": 423.47,
+      "projected": false
+    },
+    {
+      "date": "1993-12",
+      "value": 470.81,
+      "projected": false
+    },
+    {
+      "date": "1994-01",
+      "value": 507.02,
+      "projected": false
+    },
+    {
+      "date": "1994-02",
+      "value": 526.78,
+      "projected": false
+    },
+    {
+      "date": "1994-03",
+      "value": 491.86,
+      "projected": false
+    },
+    {
+      "date": "1994-04",
+      "value": 488.14,
+      "projected": false
+    },
+    {
+      "date": "1994-05",
+      "value": 453.05,
+      "projected": false
+    },
+    {
+      "date": "1994-06",
+      "value": 464.85,
+      "projected": false
+    },
+    {
+      "date": "1994-07",
+      "value": 488.77,
+      "projected": false
+    },
+    {
+      "date": "1994-08",
+      "value": 502.28,
+      "projected": false
+    },
+    {
+      "date": "1994-09",
+      "value": 506.58,
+      "projected": false
+    },
+    {
+      "date": "1994-10",
+      "value": 482.82,
+      "projected": false
+    },
+    {
+      "date": "1994-11",
+      "value": 468.38,
+      "projected": false
+    },
+    {
+      "date": "1994-12",
+      "value": 479.96,
+      "projected": false
+    },
+    {
+      "date": "1995-01",
+      "value": 472.74,
+      "projected": false
+    },
+    {
+      "date": "1995-02",
+      "value": 520.38,
+      "projected": false
+    },
+    {
+      "date": "1995-03",
+      "value": 448.0,
+      "projected": false
+    },
+    {
+      "date": "1995-04",
+      "value": 500.5,
+      "projected": false
+    },
+    {
+      "date": "1995-05",
+      "value": 522.92,
+      "projected": false
+    },
+    {
+      "date": "1995-06",
+      "value": 552.96,
+      "projected": false
+    },
+    {
+      "date": "1995-07",
+      "value": 518.15,
+      "projected": false
+    },
+    {
+      "date": "1995-08",
+      "value": 544.74,
+      "projected": false
+    },
+    {
+      "date": "1995-09",
+      "value": 510.85,
+      "projected": false
+    },
+    {
+      "date": "1995-10",
+      "value": 504.24,
+      "projected": false
+    },
+    {
+      "date": "1995-11",
+      "value": 508.49,
+      "projected": false
+    },
+    {
+      "date": "1995-12",
+      "value": 569.13,
+      "projected": false
+    },
+    {
+      "date": "1996-01",
+      "value": 557.68,
+      "projected": false
+    },
+    {
+      "date": "1996-02",
+      "value": 546.82,
+      "projected": false
+    },
+    {
+      "date": "1996-03",
+      "value": 625.67,
+      "projected": false
+    },
+    {
+      "date": "1996-04",
+      "value": 538.04,
+      "projected": false
+    },
+    {
+      "date": "1996-05",
+      "value": 558.28,
+      "projected": false
+    },
+    {
+      "date": "1996-06",
+      "value": 552.44,
+      "projected": false
+    },
+    {
+      "date": "1996-07",
+      "value": 540.61,
+      "projected": false
+    },
+    {
+      "date": "1996-08",
+      "value": 612.89,
+      "projected": false
+    },
+    {
+      "date": "1996-09",
+      "value": 593.48,
+      "projected": false
+    },
+    {
+      "date": "1996-10",
+      "value": 515.73,
+      "projected": false
+    },
+    {
+      "date": "1996-11",
+      "value": 546.04,
+      "projected": false
+    },
+    {
+      "date": "1996-12",
+      "value": 571.83,
+      "projected": false
+    },
+    {
+      "date": "1997-01",
+      "value": 584.54,
+      "projected": false
+    },
+    {
+      "date": "1997-02",
+      "value": 527.09,
+      "projected": false
+    },
+    {
+      "date": "1997-03",
+      "value": 503.85,
+      "projected": false
+    },
+    {
+      "date": "1997-04",
+      "value": 516.22,
+      "projected": false
+    },
+    {
+      "date": "1997-05",
+      "value": 571.3,
+      "projected": false
+    },
+    {
+      "date": "1997-06",
+      "value": 573.1,
+      "projected": false
+    },
+    {
+      "date": "1997-07",
+      "value": 588.81,
+      "projected": false
+    },
+    {
+      "date": "1997-08",
+      "value": 559.2,
+      "projected": false
+    },
+    {
+      "date": "1997-09",
+      "value": 548.59,
+      "projected": false
+    },
+    {
+      "date": "1997-10",
+      "value": 527.76,
+      "projected": false
+    },
+    {
+      "date": "1997-11",
+      "value": 599.66,
+      "projected": false
+    },
+    {
+      "date": "1997-12",
+      "value": 603.74,
+      "projected": false
+    },
+    {
+      "date": "1998-01",
+      "value": 625.17,
+      "projected": false
+    },
+    {
+      "date": "1998-02",
+      "value": 622.1,
+      "projected": false
+    },
+    {
+      "date": "1998-03",
+      "value": 595.57,
+      "projected": false
+    },
+    {
+      "date": "1998-04",
+      "value": 644.93,
+      "projected": false
+    },
+    {
+      "date": "1998-05",
+      "value": 602.91,
+      "projected": false
+    },
+    {
+      "date": "1998-06",
+      "value": 589.8,
+      "projected": false
+    },
+    {
+      "date": "1998-07",
+      "value": 596.91,
+      "projected": false
+    },
+    {
+      "date": "1998-08",
+      "value": 597.78,
+      "projected": false
+    },
+    {
+      "date": "1998-09",
+      "value": 551.73,
+      "projected": false
+    },
+    {
+      "date": "1998-10",
+      "value": 626.54,
+      "projected": false
+    },
+    {
+      "date": "1998-11",
+      "value": 632.45,
+      "projected": false
+    },
+    {
+      "date": "1998-12",
+      "value": 616.26,
+      "projected": false
+    },
+    {
+      "date": "1999-01",
+      "value": 608.12,
+      "projected": false
+    },
+    {
+      "date": "1999-02",
+      "value": 645.42,
+      "projected": false
+    },
+    {
+      "date": "1999-03",
+      "value": 691.32,
+      "projected": false
+    },
+    {
+      "date": "1999-04",
+      "value": 640.93,
+      "projected": false
+    },
+    {
+      "date": "1999-05",
+      "value": 626.44,
+      "projected": false
+    },
+    {
+      "date": "1999-06",
+      "value": 626.73,
+      "projected": false
+    },
+    {
+      "date": "1999-07",
+      "value": 646.64,
+      "projected": false
+    },
+    {
+      "date": "1999-08",
+      "value": 610.77,
+      "projected": false
+    },
+    {
+      "date": "1999-09",
+      "value": 651.01,
+      "projected": false
+    },
+    {
+      "date": "1999-10",
+      "value": 660.26,
+      "projected": false
+    },
+    {
+      "date": "1999-11",
+      "value": 722.39,
+      "projected": false
+    },
+    {
+      "date": "1999-12",
+      "value": 695.89,
+      "projected": false
+    },
+    {
+      "date": "2000-01",
+      "value": 702.24,
+      "projected": false
+    },
+    {
+      "date": "2000-02",
+      "value": 646.99,
+      "projected": false
+    },
+    {
+      "date": "2000-03",
+      "value": 696.69,
+      "projected": false
+    },
+    {
+      "date": "2000-04",
+      "value": 638.74,
+      "projected": false
+    },
+    {
+      "date": "2000-05",
+      "value": 691.17,
+      "projected": false
+    },
+    {
+      "date": "2000-06",
+      "value": 698.12,
+      "projected": false
+    },
+    {
+      "date": "2000-07",
+      "value": 660.74,
+      "projected": false
+    },
+    {
+      "date": "2000-08",
+      "value": 759.36,
+      "projected": false
+    },
+    {
+      "date": "2000-09",
+      "value": 713.32,
+      "projected": false
+    },
+    {
+      "date": "2000-10",
+      "value": 630.65,
+      "projected": false
+    },
+    {
+      "date": "2000-11",
+      "value": 719.64,
+      "projected": false
+    },
+    {
+      "date": "2000-12",
+      "value": 689.29,
+      "projected": false
+    },
+    {
+      "date": "2001-01",
+      "value": 707.03,
+      "projected": false
+    },
+    {
+      "date": "2001-02",
+      "value": 726.9,
+      "projected": false
+    },
+    {
+      "date": "2001-03",
+      "value": 727.69,
+      "projected": false
+    },
+    {
+      "date": "2001-04",
+      "value": 644.04,
+      "projected": false
+    },
+    {
+      "date": "2001-05",
+      "value": 678.85,
+      "projected": false
+    },
+    {
+      "date": "2001-06",
+      "value": 751.99,
+      "projected": false
+    },
+    {
+      "date": "2001-07",
+      "value": 774.81,
+      "projected": false
+    },
+    {
+      "date": "2001-08",
+      "value": 800.51,
+      "projected": false
+    },
+    {
+      "date": "2001-09",
+      "value": 800.66,
+      "projected": false
+    },
+    {
+      "date": "2001-10",
+      "value": 662.1,
+      "projected": false
+    },
+    {
+      "date": "2001-11",
+      "value": 770.0,
+      "projected": false
+    },
+    {
+      "date": "2001-12",
+      "value": 673.63,
+      "projected": false
+    },
+    {
+      "date": "2002-01",
+      "value": 808.96,
+      "projected": false
+    },
+    {
+      "date": "2002-02",
+      "value": 761.67,
+      "projected": false
+    },
+    {
+      "date": "2002-03",
+      "value": 712.61,
+      "projected": false
+    },
+    {
+      "date": "2002-04",
+      "value": 835.65,
+      "projected": false
+    },
+    {
+      "date": "2002-05",
+      "value": 787.53,
+      "projected": false
+    },
+    {
+      "date": "2002-06",
+      "value": 694.12,
+      "projected": false
+    },
+    {
+      "date": "2002-07",
+      "value": 781.57,
+      "projected": false
+    },
+    {
+      "date": "2002-08",
+      "value": 745.65,
+      "projected": false
+    },
+    {
+      "date": "2002-09",
+      "value": 781.96,
+      "projected": false
+    },
+    {
+      "date": "2002-10",
+      "value": 763.17,
+      "projected": false
+    },
+    {
+      "date": "2002-11",
+      "value": 838.99,
+      "projected": false
+    },
+    {
+      "date": "2002-12",
+      "value": 732.69,
+      "projected": false
+    },
+    {
+      "date": "2003-01",
+      "value": 805.17,
+      "projected": false
+    },
+    {
+      "date": "2003-02",
+      "value": 868.61,
+      "projected": false
+    },
+    {
+      "date": "2003-03",
+      "value": 767.09,
+      "projected": false
+    },
+    {
+      "date": "2003-04",
+      "value": 812.46,
+      "projected": false
+    },
+    {
+      "date": "2003-05",
+      "value": 815.99,
+      "projected": false
+    },
+    {
+      "date": "2003-06",
+      "value": 783.7,
+      "projected": false
+    },
+    {
+      "date": "2003-07",
+      "value": 841.98,
+      "projected": false
+    },
+    {
+      "date": "2003-08",
+      "value": 823.43,
+      "projected": false
+    },
+    {
+      "date": "2003-09",
+      "value": 784.52,
+      "projected": false
+    },
+    {
+      "date": "2003-10",
+      "value": 900.19,
+      "projected": false
+    },
+    {
+      "date": "2003-11",
+      "value": 864.15,
+      "projected": false
+    },
+    {
+      "date": "2003-12",
+      "value": 828.24,
+      "projected": false
+    },
+    {
+      "date": "2004-01",
+      "value": 812.49,
+      "projected": false
+    },
+    {
+      "date": "2004-02",
+      "value": 810.14,
+      "projected": false
+    },
+    {
+      "date": "2004-03",
+      "value": 899.38,
+      "projected": false
+    },
+    {
+      "date": "2004-04",
+      "value": 845.04,
+      "projected": false
+    },
+    {
+      "date": "2004-05",
+      "value": 874.99,
+      "projected": false
+    },
+    {
+      "date": "2004-06",
+      "value": 851.5,
+      "projected": false
+    },
+    {
+      "date": "2004-07",
+      "value": 890.14,
+      "projected": false
+    },
+    {
+      "date": "2004-08",
+      "value": 862.62,
+      "projected": false
+    },
+    {
+      "date": "2004-09",
+      "value": 905.09,
+      "projected": false
+    },
+    {
+      "date": "2004-10",
+      "value": 867.93,
+      "projected": false
+    },
+    {
+      "date": "2004-11",
+      "value": 916.64,
+      "projected": false
+    },
+    {
+      "date": "2004-12",
+      "value": 914.07,
+      "projected": false
+    },
+    {
+      "date": "2005-01",
+      "value": 883.38,
+      "projected": false
+    },
+    {
+      "date": "2005-02",
+      "value": 854.42,
+      "projected": false
+    },
+    {
+      "date": "2005-03",
+      "value": 854.9,
+      "projected": false
+    },
+    {
+      "date": "2005-04",
+      "value": 867.96,
+      "projected": false
+    },
+    {
+      "date": "2005-05",
+      "value": 861.07,
+      "projected": false
+    },
+    {
+      "date": "2005-06",
+      "value": 949.36,
+      "projected": false
+    },
+    {
+      "date": "2005-07",
+      "value": 912.18,
+      "projected": false
+    },
+    {
+      "date": "2005-08",
+      "value": 990.8,
+      "projected": false
+    },
+    {
+      "date": "2005-09",
+      "value": 1028.26,
+      "projected": false
+    },
+    {
+      "date": "2005-10",
+      "value": 928.59,
+      "projected": false
+    },
+    {
+      "date": "2005-11",
+      "value": 859.77,
+      "projected": false
+    },
+    {
+      "date": "2005-12",
+      "value": 918.49,
+      "projected": false
+    },
+    {
+      "date": "2006-01",
+      "value": 937.27,
+      "projected": false
+    },
+    {
+      "date": "2006-02",
+      "value": 874.96,
+      "projected": false
+    },
+    {
+      "date": "2006-03",
+      "value": 937.92,
+      "projected": false
+    },
+    {
+      "date": "2006-04",
+      "value": 968.05,
+      "projected": false
+    },
+    {
+      "date": "2006-05",
+      "value": 936.88,
+      "projected": false
+    },
+    {
+      "date": "2006-06",
+      "value": 926.47,
+      "projected": false
+    },
+    {
+      "date": "2006-07",
+      "value": 931.36,
+      "projected": false
+    },
+    {
+      "date": "2006-08",
+      "value": 1059.61,
+      "projected": false
+    },
+    {
+      "date": "2006-09",
+      "value": 969.55,
+      "projected": false
+    },
+    {
+      "date": "2006-10",
+      "value": 941.27,
+      "projected": false
+    },
+    {
+      "date": "2006-11",
+      "value": 968.31,
+      "projected": false
+    },
+    {
+      "date": "2006-12",
+      "value": 1038.72,
+      "projected": false
+    },
+    {
+      "date": "2007-01",
+      "value": 962.05,
+      "projected": false
+    },
+    {
+      "date": "2007-02",
+      "value": 1025.02,
+      "projected": false
+    },
+    {
+      "date": "2007-03",
+      "value": 1042.28,
+      "projected": false
+    },
+    {
+      "date": "2007-04",
+      "value": 1048.33,
+      "projected": false
+    },
+    {
+      "date": "2007-05",
+      "value": 1086.36,
+      "projected": false
+    },
+    {
+      "date": "2007-06",
+      "value": 992.07,
+      "projected": false
+    },
+    {
+      "date": "2007-07",
+      "value": 1083.08,
+      "projected": false
+    },
+    {
+      "date": "2007-08",
+      "value": 989.09,
+      "projected": false
+    },
+    {
+      "date": "2007-09",
+      "value": 1014.31,
+      "projected": false
+    },
+    {
+      "date": "2007-10",
+      "value": 1101.96,
+      "projected": false
+    },
+    {
+      "date": "2007-11",
+      "value": 1087.69,
+      "projected": false
+    },
+    {
+      "date": "2007-12",
+      "value": 1049.83,
+      "projected": false
+    },
+    {
+      "date": "2008-01",
+      "value": 991.9,
+      "projected": false
+    },
+    {
+      "date": "2008-02",
+      "value": 1089.53,
+      "projected": false
+    },
+    {
+      "date": "2008-03",
+      "value": 1031.27,
+      "projected": false
+    },
+    {
+      "date": "2008-04",
+      "value": 1020.49,
+      "projected": false
+    },
+    {
+      "date": "2008-05",
+      "value": 1040.18,
+      "projected": false
+    },
+    {
+      "date": "2008-06",
+      "value": 1093.46,
+      "projected": false
+    },
+    {
+      "date": "2008-07",
+      "value": 970.21,
+      "projected": false
+    },
+    {
+      "date": "2008-08",
+      "value": 1110.16,
+      "projected": false
+    },
+    {
+      "date": "2008-09",
+      "value": 1105.22,
+      "projected": false
+    },
+    {
+      "date": "2008-10",
+      "value": 1068.75,
+      "projected": false
+    },
+    {
+      "date": "2008-11",
+      "value": 1163.53,
+      "projected": false
+    },
+    {
+      "date": "2008-12",
+      "value": 1145.44,
+      "projected": false
+    },
+    {
+      "date": "2009-01",
+      "value": 1082.91,
+      "projected": false
+    },
+    {
+      "date": "2009-02",
+      "value": 1084.51,
+      "projected": false
+    },
+    {
+      "date": "2009-03",
+      "value": 1166.64,
+      "projected": false
+    },
+    {
+      "date": "2009-04",
+      "value": 1046.96,
+      "projected": false
+    },
+    {
+      "date": "2009-05",
+      "value": 1119.31,
+      "projected": false
+    },
+    {
+      "date": "2009-06",
+      "value": 1107.59,
+      "projected": false
+    },
+    {
+      "date": "2009-07",
+      "value": 1153.15,
+      "projected": false
+    },
+    {
+      "date": "2009-08",
+      "value": 1166.81,
+      "projected": false
+    },
+    {
+      "date": "2009-09",
+      "value": 1162.27,
+      "projected": false
+    },
+    {
+      "date": "2009-10",
+      "value": 1231.81,
+      "projected": false
+    },
+    {
+      "date": "2009-11",
+      "value": 1184.59,
+      "projected": false
+    },
+    {
+      "date": "2009-12",
+      "value": 1158.29,
+      "projected": false
+    },
+    {
+      "date": "2010-01",
+      "value": 1110.86,
+      "projected": false
+    },
+    {
+      "date": "2010-02",
+      "value": 1230.97,
+      "projected": false
+    },
+    {
+      "date": "2010-03",
+      "value": 1225.28,
+      "projected": false
+    },
+    {
+      "date": "2010-04",
+      "value": 1286.47,
+      "projected": false
+    },
+    {
+      "date": "2010-05",
+      "value": 1160.14,
+      "projected": false
+    },
+    {
+      "date": "2010-06",
+      "value": 1212.54,
+      "projected": false
+    },
+    {
+      "date": "2010-07",
+      "value": 1213.15,
+      "projected": false
+    },
+    {
+      "date": "2010-08",
+      "value": 1217.17,
+      "projected": false
+    },
+    {
+      "date": "2010-09",
+      "value": 1229.0,
+      "projected": false
+    },
+    {
+      "date": "2010-10",
+      "value": 1128.42,
+      "projected": false
+    },
+    {
+      "date": "2010-11",
+      "value": 1291.27,
+      "projected": false
+    },
+    {
+      "date": "2010-12",
+      "value": 1286.73,
+      "projected": false
+    },
+    {
+      "date": "2011-01",
+      "value": 1322.75,
+      "projected": false
+    },
+    {
+      "date": "2011-02",
+      "value": 1399.46,
+      "projected": false
+    },
+    {
+      "date": "2011-03",
+      "value": 1243.81,
+      "projected": false
+    },
+    {
+      "date": "2011-04",
+      "value": 1267.71,
+      "projected": false
+    },
+    {
+      "date": "2011-05",
+      "value": 1276.69,
+      "projected": false
+    },
+    {
+      "date": "2011-06",
+      "value": 1406.67,
+      "projected": false
+    },
+    {
+      "date": "2011-07",
+      "value": 1176.76,
+      "projected": false
+    },
+    {
+      "date": "2011-08",
+      "value": 1325.87,
+      "projected": false
+    },
+    {
+      "date": "2011-09",
+      "value": 1204.96,
+      "projected": false
+    },
+    {
+      "date": "2011-10",
+      "value": 1138.13,
+      "projected": false
+    },
+    {
+      "date": "2011-11",
+      "value": 1180.38,
+      "projected": false
+    },
+    {
+      "date": "2011-12",
+      "value": 1228.17,
+      "projected": false
+    },
+    {
+      "date": "2012-01",
+      "value": 1396.47,
+      "projected": false
+    },
+    {
+      "date": "2012-02",
+      "value": 1274.12,
+      "projected": false
+    },
+    {
+      "date": "2012-03",
+      "value": 1323.08,
+      "projected": false
+    },
+    {
+      "date": "2012-04",
+      "value": 1266.46,
+      "projected": false
+    },
+    {
+      "date": "2012-05",
+      "value": 1392.39,
+      "projected": false
+    },
+    {
+      "date": "2012-06",
+      "value": 1282.76,
+      "projected": false
+    },
+    {
+      "date": "2012-07",
+      "value": 1453.91,
+      "projected": false
+    },
+    {
+      "date": "2012-08",
+      "value": 1302.5,
+      "projected": false
+    },
+    {
+      "date": "2012-09",
+      "value": 1324.43,
+      "projected": false
+    },
+    {
+      "date": "2012-10",
+      "value": 1392.16,
+      "projected": false
+    },
+    {
+      "date": "2012-11",
+      "value": 1391.99,
+      "projected": false
+    },
+    {
+      "date": "2012-12",
+      "value": 1496.42,
+      "projected": false
+    },
+    {
+      "date": "2013-01",
+      "value": 1412.03,
+      "projected": false
+    },
+    {
+      "date": "2013-02",
+      "value": 1325.11,
+      "projected": false
+    },
+    {
+      "date": "2013-03",
+      "value": 1377.31,
+      "projected": false
+    },
+    {
+      "date": "2013-04",
+      "value": 1383.0,
+      "projected": false
+    },
+    {
+      "date": "2013-05",
+      "value": 1482.44,
+      "projected": false
+    },
+    {
+      "date": "2013-06",
+      "value": 1464.99,
+      "projected": false
+    },
+    {
+      "date": "2013-07",
+      "value": 1435.64,
+      "projected": false
+    },
+    {
+      "date": "2013-08",
+      "value": 1514.26,
+      "projected": false
+    },
+    {
+      "date": "2013-09",
+      "value": 1419.56,
+      "projected": false
+    },
+    {
+      "date": "2013-10",
+      "value": 1455.07,
+      "projected": false
+    },
+    {
+      "date": "2013-11",
+      "value": 1485.34,
+      "projected": false
+    },
+    {
+      "date": "2013-12",
+      "value": 1592.08,
+      "projected": false
+    },
+    {
+      "date": "2014-01",
+      "value": 1478.81,
+      "projected": false
+    },
+    {
+      "date": "2014-02",
+      "value": 1467.03,
+      "projected": false
+    },
+    {
+      "date": "2014-03",
+      "value": 1421.89,
+      "projected": false
+    },
+    {
+      "date": "2014-04",
+      "value": 1559.22,
+      "projected": false
+    },
+    {
+      "date": "2014-05",
+      "value": 1470.2,
+      "projected": false
+    },
+    {
+      "date": "2014-06",
+      "value": 1548.09,
+      "projected": false
+    },
+    {
+      "date": "2014-07",
+      "value": 1383.81,
+      "projected": false
+    },
+    {
+      "date": "2014-08",
+      "value": 1616.65,
+      "projected": false
+    },
+    {
+      "date": "2014-09",
+      "value": 1441.02,
+      "projected": false
+    },
+    {
+      "date": "2014-10",
+      "value": 1490.92,
+      "projected": false
+    },
+    {
+      "date": "2014-11",
+      "value": 1641.11,
+      "projected": false
+    },
+    {
+      "date": "2014-12",
+      "value": 1461.56,
+      "projected": false
+    },
+    {
+      "date": "2015-01",
+      "value": 1567.28,
+      "projected": false
+    },
+    {
+      "date": "2015-02",
+      "value": 1586.91,
+      "projected": false
+    },
+    {
+      "date": "2015-03",
+      "value": 1509.27,
+      "projected": false
+    },
+    {
+      "date": "2015-04",
+      "value": 1703.35,
+      "projected": false
+    },
+    {
+      "date": "2015-05",
+      "value": 1723.98,
+      "projected": false
+    },
+    {
+      "date": "2015-06",
+      "value": 1452.59,
+      "projected": false
+    },
+    {
+      "date": "2015-07",
+      "value": 1501.83,
+      "projected": false
+    },
+    {
+      "date": "2015-08",
+      "value": 1692.61,
+      "projected": false
+    },
+    {
+      "date": "2015-09",
+      "value": 1528.14,
+      "projected": false
+    },
+    {
+      "date": "2015-10",
+      "value": 1610.52,
+      "projected": false
+    },
+    {
+      "date": "2015-11",
+      "value": 1660.97,
+      "projected": false
+    },
+    {
+      "date": "2015-12",
+      "value": 1715.52,
+      "projected": false
+    },
+    {
+      "date": "2016-01",
+      "value": 1647.48,
+      "projected": false
+    },
+    {
+      "date": "2016-02",
+      "value": 1682.0,
+      "projected": false
+    },
+    {
+      "date": "2016-03",
+      "value": 1616.69,
+      "projected": false
+    },
+    {
+      "date": "2016-04",
+      "value": 1799.25,
+      "projected": false
+    },
+    {
+      "date": "2016-05",
+      "value": 1656.06,
+      "projected": false
+    },
+    {
+      "date": "2016-06",
+      "value": 1735.2,
+      "projected": false
+    },
+    {
+      "date": "2016-07",
+      "value": 1670.51,
+      "projected": false
+    },
+    {
+      "date": "2016-08",
+      "value": 1731.71,
+      "projected": false
+    },
+    {
+      "date": "2016-09",
+      "value": 1716.22,
+      "projected": false
+    },
+    {
+      "date": "2016-10",
+      "value": 1724.91,
+      "projected": false
+    },
+    {
+      "date": "2016-11",
+      "value": 1658.77,
+      "projected": false
+    },
+    {
+      "date": "2016-12",
+      "value": 1825.59,
+      "projected": false
+    },
+    {
+      "date": "2017-01",
+      "value": 1888.78,
+      "projected": false
+    },
+    {
+      "date": "2017-02",
+      "value": 1794.03,
+      "projected": false
+    },
+    {
+      "date": "2017-03",
+      "value": 1846.15,
+      "projected": false
+    },
+    {
+      "date": "2017-04",
+      "value": 1864.43,
+      "projected": false
+    },
+    {
+      "date": "2017-05",
+      "value": 1881.41,
+      "projected": false
+    },
+    {
+      "date": "2017-06",
+      "value": 1833.97,
+      "projected": false
+    },
+    {
+      "date": "2017-07",
+      "value": 1834.46,
+      "projected": false
+    },
+    {
+      "date": "2017-08",
+      "value": 1902.65,
+      "projected": false
+    },
+    {
+      "date": "2017-09",
+      "value": 1838.87,
+      "projected": false
+    },
+    {
+      "date": "2017-10",
+      "value": 1751.65,
+      "projected": false
+    },
+    {
+      "date": "2017-11",
+      "value": 1852.31,
+      "projected": false
+    },
+    {
+      "date": "2017-12",
+      "value": 1683.41,
+      "projected": false
+    },
+    {
+      "date": "2018-01",
+      "value": 1867.25,
+      "projected": false
+    },
+    {
+      "date": "2018-02",
+      "value": 1915.51,
+      "projected": false
+    },
+    {
+      "date": "2018-03",
+      "value": 2002.21,
+      "projected": false
+    },
+    {
+      "date": "2018-04",
+      "value": 1909.01,
+      "projected": false
+    },
+    {
+      "date": "2018-05",
+      "value": 1992.07,
+      "projected": false
+    },
+    {
+      "date": "2018-06",
+      "value": 1912.76,
+      "projected": false
+    },
+    {
+      "date": "2018-07",
+      "value": 1823.59,
+      "projected": false
+    },
+    {
+      "date": "2018-08",
+      "value": 1794.84,
+      "projected": false
+    },
+    {
+      "date": "2018-09",
+      "value": 1846.26,
+      "projected": false
+    },
+    {
+      "date": "2018-10",
+      "value": 1816.43,
+      "projected": false
+    },
+    {
+      "date": "2018-11",
+      "value": 2020.98,
+      "projected": false
+    },
+    {
+      "date": "2018-12",
+      "value": 1947.83,
+      "projected": false
+    },
+    {
+      "date": "2019-01",
+      "value": 2034.05,
+      "projected": false
+    },
+    {
+      "date": "2019-02",
+      "value": 1994.39,
+      "projected": false
+    },
+    {
+      "date": "2019-03",
+      "value": 2100.81,
+      "projected": false
+    },
+    {
+      "date": "2019-04",
+      "value": 2112.46,
+      "projected": false
+    },
+    {
+      "date": "2019-05",
+      "value": 1950.65,
+      "projected": false
+    },
+    {
+      "date": "2019-06",
+      "value": 1997.53,
+      "projected": false
+    },
+    {
+      "date": "2019-07",
+      "value": 1980.76,
+      "projected": false
+    },
+    {
+      "date": "2019-08",
+      "value": 1878.94,
+      "projected": false
+    },
+    {
+      "date": "2019-09",
+      "value": 2123.81,
+      "projected": false
+    },
+    {
+      "date": "2019-10",
+      "value": 2186.96,
+      "projected": false
+    },
+    {
+      "date": "2019-11",
+      "value": 2073.45,
+      "projected": false
+    },
+    {
+      "date": "2019-12",
+      "value": 2032.63,
+      "projected": false
+    },
+    {
+      "date": "2020-01",
+      "value": 2208.18,
+      "projected": false
+    },
+    {
+      "date": "2020-02",
+      "value": 1857.28,
+      "projected": false
+    },
+    {
+      "date": "2020-03",
+      "value": 2132.76,
+      "projected": false
+    },
+    {
+      "date": "2020-04",
+      "value": 2139.31,
+      "projected": false
+    },
+    {
+      "date": "2020-05",
+      "value": 2073.32,
+      "projected": false
+    },
+    {
+      "date": "2020-06",
+      "value": 2293.63,
+      "projected": false
+    },
+    {
+      "date": "2020-07",
+      "value": 2259.24,
+      "projected": false
+    },
+    {
+      "date": "2020-08",
+      "value": 2136.68,
+      "projected": false
+    },
+    {
+      "date": "2020-09",
+      "value": 2165.85,
+      "projected": false
+    },
+    {
+      "date": "2020-10",
+      "value": 2143.26,
+      "projected": false
+    },
+    {
+      "date": "2020-11",
+      "value": 2139.87,
+      "projected": false
+    },
+    {
+      "date": "2020-12",
+      "value": 2062.25,
+      "projected": false
+    },
+    {
+      "date": "2021-01",
+      "value": 2370.09,
+      "projected": false
+    },
+    {
+      "date": "2021-02",
+      "value": 2342.2,
+      "projected": false
+    },
+    {
+      "date": "2021-03",
+      "value": 2327.66,
+      "projected": false
+    },
+    {
+      "date": "2021-04",
+      "value": 2125.96,
+      "projected": false
+    },
+    {
+      "date": "2021-05",
+      "value": 2494.87,
+      "projected": false
+    },
+    {
+      "date": "2021-06",
+      "value": 2495.34,
+      "projected": false
+    },
+    {
+      "date": "2021-07",
+      "value": 2302.83,
+      "projected": false
+    },
+    {
+      "date": "2021-08",
+      "value": 2188.64,
+      "projected": false
+    },
+    {
+      "date": "2021-09",
+      "value": 2203.44,
+      "projected": false
+    },
+    {
+      "date": "2021-10",
+      "value": 2362.64,
+      "projected": false
+    },
+    {
+      "date": "2021-11",
+      "value": 2219.11,
+      "projected": false
+    },
+    {
+      "date": "2021-12",
+      "value": 2332.36,
+      "projected": false
+    },
+    {
+      "date": "2022-01",
+      "value": 2475.29,
+      "projected": false
+    },
+    {
+      "date": "2022-02",
+      "value": 2181.01,
+      "projected": false
+    },
+    {
+      "date": "2022-03",
+      "value": 2607.65,
+      "projected": false
+    },
+    {
+      "date": "2022-04",
+      "value": 2567.83,
+      "projected": false
+    },
+    {
+      "date": "2022-05",
+      "value": 2244.66,
+      "projected": false
+    },
+    {
+      "date": "2022-06",
+      "value": 2234.15,
+      "projected": false
+    },
+    {
+      "date": "2022-07",
+      "value": 2381.32,
+      "projected": false
+    },
+    {
+      "date": "2022-08",
+      "value": 2301.95,
+      "projected": false
+    },
+    {
+      "date": "2022-09",
+      "value": 2406.51,
+      "projected": false
+    },
+    {
+      "date": "2022-10",
+      "value": 2134.08,
+      "projected": false
+    },
+    {
+      "date": "2022-11",
+      "value": 2433.86,
+      "projected": false
+    },
+    {
+      "date": "2022-12",
+      "value": 2696.75,
+      "projected": false
+    },
+    {
+      "date": "2023-01",
+      "value": 2346.8,
+      "projected": false
+    },
+    {
+      "date": "2023-02",
+      "value": 2463.34,
+      "projected": false
+    },
+    {
+      "date": "2023-03",
+      "value": 2322.46,
+      "projected": false
+    },
+    {
+      "date": "2023-04",
+      "value": 2601.8,
+      "projected": false
+    },
+    {
+      "date": "2023-05",
+      "value": 2504.83,
+      "projected": false
+    },
+    {
+      "date": "2023-06",
+      "value": 2792.47,
+      "projected": false
+    },
+    {
+      "date": "2023-07",
+      "value": 2584.07,
+      "projected": false
+    },
+    {
+      "date": "2023-08",
+      "value": 2522.0,
+      "projected": false
+    },
+    {
+      "date": "2023-09",
+      "value": 2653.14,
+      "projected": false
+    },
+    {
+      "date": "2023-10",
+      "value": 2528.75,
+      "projected": false
+    },
+    {
+      "date": "2023-11",
+      "value": 2432.24,
+      "projected": false
+    },
+    {
+      "date": "2023-12",
+      "value": 2658.79,
+      "projected": false
+    },
+    {
+      "date": "2024-01",
+      "value": 2608.74,
+      "projected": false
+    },
+    {
+      "date": "2024-02",
+      "value": 2666.31,
+      "projected": false
+    },
+    {
+      "date": "2024-03",
+      "value": 2706.82,
+      "projected": false
+    },
+    {
+      "date": "2024-04",
+      "value": 2601.5,
+      "projected": false
+    },
+    {
+      "date": "2024-05",
+      "value": 2738.91,
+      "projected": false
+    },
+    {
+      "date": "2024-06",
+      "value": 2929.34,
+      "projected": false
+    },
+    {
+      "date": "2024-07",
+      "value": 2558.04,
+      "projected": false
+    },
+    {
+      "date": "2024-08",
+      "value": 2957.34,
+      "projected": false
+    },
+    {
+      "date": "2024-09",
+      "value": 2700.76,
+      "projected": false
+    },
+    {
+      "date": "2024-10",
+      "value": 2641.71,
+      "projected": false
+    },
+    {
+      "date": "2024-11",
+      "value": 3095.09,
+      "projected": false
+    },
+    {
+      "date": "2024-12",
+      "value": 2794.79,
+      "projected": false
+    },
+    {
+      "date": "2025-01",
+      "value": 2977.46,
+      "projected": false
+    },
+    {
+      "date": "2025-02",
+      "value": 2914.29,
+      "projected": false
+    },
+    {
+      "date": "2025-03",
+      "value": 2576.81,
+      "projected": false
+    },
+    {
+      "date": "2025-04",
+      "value": 2843.7,
+      "projected": false
+    },
+    {
+      "date": "2025-05",
+      "value": 2765.52,
+      "projected": false
+    },
+    {
+      "date": "2025-06",
+      "value": 2662.23,
+      "projected": false
+    },
+    {
+      "date": "2025-07",
+      "value": 2613.3,
+      "projected": false
+    },
+    {
+      "date": "2025-08",
+      "value": 2895.72,
+      "projected": false
+    },
+    {
+      "date": "2025-09",
+      "value": 2980.17,
+      "projected": false
+    },
+    {
+      "date": "2025-10",
+      "value": 2965.37,
+      "projected": false
+    },
+    {
+      "date": "2025-11",
+      "value": 2877.76,
+      "projected": false
+    },
+    {
+      "date": "2025-12",
+      "value": 2819.16,
+      "projected": false
+    },
+    {
+      "date": "2026-01",
+      "value": 2804.83,
+      "projected": true
+    },
+    {
+      "date": "2026-02",
+      "value": 2882.21,
+      "projected": true
+    },
+    {
+      "date": "2026-03",
+      "value": 2824.79,
+      "projected": true
+    },
+    {
+      "date": "2026-04",
+      "value": 2962.45,
+      "projected": true
+    },
+    {
+      "date": "2026-05",
+      "value": 3003.71,
+      "projected": true
+    },
+    {
+      "date": "2026-06",
+      "value": 2886.15,
+      "projected": true
+    },
+    {
+      "date": "2026-07",
+      "value": 3000.71,
+      "projected": true
+    },
+    {
+      "date": "2026-08",
+      "value": 2934.46,
+      "projected": true
+    },
+    {
+      "date": "2026-09",
+      "value": 3064.3,
+      "projected": true
+    },
+    {
+      "date": "2026-10",
+      "value": 3157.7,
+      "projected": true
+    },
+    {
+      "date": "2026-11",
+      "value": 3121.88,
+      "projected": true
+    },
+    {
+      "date": "2026-12",
+      "value": 3182.49,
+      "projected": true
+    },
+    {
+      "date": "2027-01",
+      "value": 2865.89,
+      "projected": true
+    },
+    {
+      "date": "2027-02",
+      "value": 3079.41,
+      "projected": true
+    },
+    {
+      "date": "2027-03",
+      "value": 3197.47,
+      "projected": true
+    },
+    {
+      "date": "2027-04",
+      "value": 3270.47,
+      "projected": true
+    },
+    {
+      "date": "2027-05",
+      "value": 2929.61,
+      "projected": true
+    },
+    {
+      "date": "2027-06",
+      "value": 3224.67,
+      "projected": true
+    },
+    {
+      "date": "2027-07",
+      "value": 3408.38,
+      "projected": true
+    },
+    {
+      "date": "2027-08",
+      "value": 3200.98,
+      "projected": true
+    },
+    {
+      "date": "2027-09",
+      "value": 3229.87,
+      "projected": true
+    },
+    {
+      "date": "2027-10",
+      "value": 3334.18,
+      "projected": true
+    },
+    {
+      "date": "2027-11",
+      "value": 3316.78,
+      "projected": true
+    },
+    {
+      "date": "2027-12",
+      "value": 3402.99,
+      "projected": true
+    },
+    {
+      "date": "2028-01",
+      "value": 3319.63,
+      "projected": true
+    },
+    {
+      "date": "2028-02",
+      "value": 3348.79,
+      "projected": true
+    },
+    {
+      "date": "2028-03",
+      "value": 3208.67,
+      "projected": true
+    },
+    {
+      "date": "2028-04",
+      "value": 3326.66,
+      "projected": true
+    },
+    {
+      "date": "2028-05",
+      "value": 3582.5,
+      "projected": true
+    },
+    {
+      "date": "2028-06",
+      "value": 3352.78,
+      "projected": true
+    },
+    {
+      "date": "2028-07",
+      "value": 3374.85,
+      "projected": true
+    },
+    {
+      "date": "2028-08",
+      "value": 3335.74,
+      "projected": true
+    },
+    {
+      "date": "2028-09",
+      "value": 3571.35,
+      "projected": true
+    },
+    {
+      "date": "2028-10",
+      "value": 3304.97,
+      "projected": true
+    },
+    {
+      "date": "2028-11",
+      "value": 3626.92,
+      "projected": true
+    },
+    {
+      "date": "2028-12",
+      "value": 3322.26,
+      "projected": true
+    },
+    {
+      "date": "2029-01",
+      "value": 3316.96,
+      "projected": true
+    },
+    {
+      "date": "2029-02",
+      "value": 3555.14,
+      "projected": true
+    },
+    {
+      "date": "2029-03",
+      "value": 3558.72,
+      "projected": true
+    },
+    {
+      "date": "2029-04",
+      "value": 3605.44,
+      "projected": true
+    },
+    {
+      "date": "2029-05",
+      "value": 3759.18,
+      "projected": true
+    },
+    {
+      "date": "2029-06",
+      "value": 3512.61,
+      "projected": true
+    },
+    {
+      "date": "2029-07",
+      "value": 3683.52,
+      "projected": true
+    },
+    {
+      "date": "2029-08",
+      "value": 3456.19,
+      "projected": true
+    },
+    {
+      "date": "2029-09",
+      "value": 3867.24,
+      "projected": true
+    },
+    {
+      "date": "2029-10",
+      "value": 3771.16,
+      "projected": true
+    },
+    {
+      "date": "2029-11",
+      "value": 3771.54,
+      "projected": true
+    },
+    {
+      "date": "2029-12",
+      "value": 3725.21,
+      "projected": true
+    },
+    {
+      "date": "2030-01",
+      "value": 3562.5,
+      "projected": true
+    },
+    {
+      "date": "2030-02",
+      "value": 3664.87,
+      "projected": true
+    },
+    {
+      "date": "2030-03",
+      "value": 3837.57,
+      "projected": true
+    },
+    {
+      "date": "2030-04",
+      "value": 3757.91,
+      "projected": true
+    },
+    {
+      "date": "2030-05",
+      "value": 3802.86,
+      "projected": true
+    },
+    {
+      "date": "2030-06",
+      "value": 3539.32,
+      "projected": true
+    },
+    {
+      "date": "2030-07",
+      "value": 3850.19,
+      "projected": true
+    },
+    {
+      "date": "2030-08",
+      "value": 3701.22,
+      "projected": true
+    },
+    {
+      "date": "2030-09",
+      "value": 3643.5,
+      "projected": true
+    },
+    {
+      "date": "2030-10",
+      "value": 3840.61,
+      "projected": true
+    },
+    {
+      "date": "2030-11",
+      "value": 3528.03,
+      "projected": true
+    },
+    {
+      "date": "2030-12",
+      "value": 4044.08,
+      "projected": true
+    },
+    {
+      "date": "2031-01",
+      "value": 4093.5,
+      "projected": true
+    },
+    {
+      "date": "2031-02",
+      "value": 3934.45,
+      "projected": true
+    },
+    {
+      "date": "2031-03",
+      "value": 3766.86,
+      "projected": true
+    },
+    {
+      "date": "2031-04",
+      "value": 3794.48,
+      "projected": true
+    },
+    {
+      "date": "2031-05",
+      "value": 3971.51,
+      "projected": true
+    },
+    {
+      "date": "2031-06",
+      "value": 3533.58,
+      "projected": true
+    },
+    {
+      "date": "2031-07",
+      "value": 4076.51,
+      "projected": true
+    },
+    {
+      "date": "2031-08",
+      "value": 4194.19,
+      "projected": true
+    },
+    {
+      "date": "2031-09",
+      "value": 4015.11,
+      "projected": true
+    },
+    {
+      "date": "2031-10",
+      "value": 3996.88,
+      "projected": true
+    },
+    {
+      "date": "2031-11",
+      "value": 4155.21,
+      "projected": true
+    },
+    {
+      "date": "2031-12",
+      "value": 4209.94,
+      "projected": true
+    },
+    {
+      "date": "2032-01",
+      "value": 4384.58,
+      "projected": true
+    },
+    {
+      "date": "2032-02",
+      "value": 4180.84,
+      "projected": true
+    },
+    {
+      "date": "2032-03",
+      "value": 4052.19,
+      "projected": true
+    },
+    {
+      "date": "2032-04",
+      "value": 4119.72,
+      "projected": true
+    },
+    {
+      "date": "2032-05",
+      "value": 4275.65,
+      "projected": true
+    },
+    {
+      "date": "2032-06",
+      "value": 4588.59,
+      "projected": true
+    },
+    {
+      "date": "2032-07",
+      "value": 4209.15,
+      "projected": true
+    },
+    {
+      "date": "2032-08",
+      "value": 4071.88,
+      "projected": true
+    },
+    {
+      "date": "2032-09",
+      "value": 4130.71,
+      "projected": true
+    },
+    {
+      "date": "2032-10",
+      "value": 3884.38,
+      "projected": true
+    },
+    {
+      "date": "2032-11",
+      "value": 4431.81,
+      "projected": true
+    },
+    {
+      "date": "2032-12",
+      "value": 4082.55,
+      "projected": true
+    },
+    {
+      "date": "2033-01",
+      "value": 4130.17,
+      "projected": true
+    },
+    {
+      "date": "2033-02",
+      "value": 3985.69,
+      "projected": true
+    },
+    {
+      "date": "2033-03",
+      "value": 4195.36,
+      "projected": true
+    },
+    {
+      "date": "2033-04",
+      "value": 4591.88,
+      "projected": true
+    },
+    {
+      "date": "2033-05",
+      "value": 4192.14,
+      "projected": true
+    },
+    {
+      "date": "2033-06",
+      "value": 4113.37,
+      "projected": true
+    },
+    {
+      "date": "2033-07",
+      "value": 4569.6,
+      "projected": true
+    },
+    {
+      "date": "2033-08",
+      "value": 4473.22,
+      "projected": true
+    },
+    {
+      "date": "2033-09",
+      "value": 4671.39,
+      "projected": true
+    },
+    {
+      "date": "2033-10",
+      "value": 4764.52,
+      "projected": true
+    },
+    {
+      "date": "2033-11",
+      "value": 4614.37,
+      "projected": true
+    },
+    {
+      "date": "2033-12",
+      "value": 4337.4,
+      "projected": true
+    },
+    {
+      "date": "2034-01",
+      "value": 4631.67,
+      "projected": true
+    },
+    {
+      "date": "2034-02",
+      "value": 4799.89,
+      "projected": true
+    },
+    {
+      "date": "2034-03",
+      "value": 4567.96,
+      "projected": true
+    },
+    {
+      "date": "2034-04",
+      "value": 4387.79,
+      "projected": true
+    },
+    {
+      "date": "2034-05",
+      "value": 5012.02,
+      "projected": true
+    },
+    {
+      "date": "2034-06",
+      "value": 4673.72,
+      "projected": true
+    },
+    {
+      "date": "2034-07",
+      "value": 4697.48,
+      "projected": true
+    },
+    {
+      "date": "2034-08",
+      "value": 4822.34,
+      "projected": true
+    },
+    {
+      "date": "2034-09",
+      "value": 5090.95,
+      "projected": true
+    },
+    {
+      "date": "2034-10",
+      "value": 4928.73,
+      "projected": true
+    },
+    {
+      "date": "2034-11",
+      "value": 4806.39,
+      "projected": true
+    },
+    {
+      "date": "2034-12",
+      "value": 5078.67,
+      "projected": true
+    },
+    {
+      "date": "2035-01",
+      "value": 5464.34,
+      "projected": true
+    },
+    {
+      "date": "2035-02",
+      "value": 5302.21,
+      "projected": true
+    },
+    {
+      "date": "2035-03",
+      "value": 5149.44,
+      "projected": true
+    },
+    {
+      "date": "2035-04",
+      "value": 4724.73,
+      "projected": true
+    },
+    {
+      "date": "2035-05",
+      "value": 5973.06,
+      "projected": true
+    },
+    {
+      "date": "2035-06",
+      "value": 4750.65,
+      "projected": true
+    },
+    {
+      "date": "2035-07",
+      "value": 4983.25,
+      "projected": true
+    },
+    {
+      "date": "2035-08",
+      "value": 4923.34,
+      "projected": true
+    },
+    {
+      "date": "2035-09",
+      "value": 5543.23,
+      "projected": true
+    },
+    {
+      "date": "2035-10",
+      "value": 5258.93,
+      "projected": true
+    },
+    {
+      "date": "2035-11",
+      "value": 4806.01,
+      "projected": true
+    },
+    {
+      "date": "2035-12",
+      "value": 5269.57,
+      "projected": true
+    }
+  ],
+  "data_quality": "verified"
+}

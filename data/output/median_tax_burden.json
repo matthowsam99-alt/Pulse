@@ -1,0 +1,326 @@
+{
+  "id": "median_tax_burden",
+  "label": "Median worker tax burden",
+  "category": "government",
+  "unit": "%",
+  "unit_label": "%",
+  "frequency": "annual",
+  "real_adjusted": false,
+  "source": "ATO tax tables + ABS 5512.0 (derived estimate)",
+  "source_url": "https://www.ato.gov.au/rates/individual-income-tax-rates/",
+  "description": "Estimated total government tax burden on a median full-time worker as a percentage of gross wage \u2014 combining federal income tax, Medicare levy, GST and an allocation of state/local taxes and levies.",
+  "explainer": "This constructed indicator estimates what share of a median full-time worker's gross income flows to government at all levels. Federal income tax is calculated from ATO historical tax tables applied to the median wage. GST is estimated at 8.5% of after-tax disposable income. State and local government taxes (payroll tax, stamp duty amortised over average tenure, council rates, vehicle registration, utility levies) are averaged across states and allocated per worker. The total gives a more complete picture than income tax alone. Key moments: the GST introduction in 2000 broadened the base; the 2012 Medicare levy increase; successive income tax cuts from 2020\u20132024 reduced the federal component; but bracket creep (wages rising into higher tax brackets with inflation) continuously pushes the effective rate up between cuts.",
+  "projection_source": "ATO legislated tax scales, Treasury revenue projections. Stage 3 tax cuts flow through projections from 2024. Assumes no further income tax changes beyond current legislation.",
+  "first_year": 1975,
+  "last_updated": "2025",
+  "projection_start": "2026",
+  "notes": "Derived/estimated indicator \u2014 not an official ABS or ATO statistic. Methodology: federal income tax (ATO tax tables on median full-time wage) + Medicare levy + GST (8.5% of disposable income) + state/local allocation ($800\u2013$4,500/yr real, state-averaged). See source for full methodology.",
+  "series": [
+    {
+      "date": "1975",
+      "value": 27.5,
+      "projected": false
+    },
+    {
+      "date": "1976",
+      "value": 28.1,
+      "projected": false
+    },
+    {
+      "date": "1977",
+      "value": 28.8,
+      "projected": false
+    },
+    {
+      "date": "1978",
+      "value": 29.2,
+      "projected": false
+    },
+    {
+      "date": "1979",
+      "value": 29.8,
+      "projected": false
+    },
+    {
+      "date": "1980",
+      "value": 30.5,
+      "projected": false
+    },
+    {
+      "date": "1981",
+      "value": 31.2,
+      "projected": false
+    },
+    {
+      "date": "1982",
+      "value": 31.8,
+      "projected": false
+    },
+    {
+      "date": "1983",
+      "value": 32.1,
+      "projected": false
+    },
+    {
+      "date": "1984",
+      "value": 31.5,
+      "projected": false
+    },
+    {
+      "date": "1985",
+      "value": 32.0,
+      "projected": false
+    },
+    {
+      "date": "1986",
+      "value": 32.8,
+      "projected": false
+    },
+    {
+      "date": "1987",
+      "value": 33.2,
+      "projected": false
+    },
+    {
+      "date": "1988",
+      "value": 32.5,
+      "projected": false
+    },
+    {
+      "date": "1989",
+      "value": 32.1,
+      "projected": false
+    },
+    {
+      "date": "1990",
+      "value": 32.4,
+      "projected": false
+    },
+    {
+      "date": "1991",
+      "value": 32.8,
+      "projected": false
+    },
+    {
+      "date": "1992",
+      "value": 32.5,
+      "projected": false
+    },
+    {
+      "date": "1993",
+      "value": 32.2,
+      "projected": false
+    },
+    {
+      "date": "1994",
+      "value": 32.0,
+      "projected": false
+    },
+    {
+      "date": "1995",
+      "value": 32.3,
+      "projected": false
+    },
+    {
+      "date": "1996",
+      "value": 32.6,
+      "projected": false
+    },
+    {
+      "date": "1997",
+      "value": 32.8,
+      "projected": false
+    },
+    {
+      "date": "1998",
+      "value": 33.0,
+      "projected": false
+    },
+    {
+      "date": "1999",
+      "value": 33.2,
+      "projected": false
+    },
+    {
+      "date": "2000",
+      "value": 35.8,
+      "projected": false
+    },
+    {
+      "date": "2001",
+      "value": 35.2,
+      "projected": false
+    },
+    {
+      "date": "2002",
+      "value": 34.8,
+      "projected": false
+    },
+    {
+      "date": "2003",
+      "value": 34.5,
+      "projected": false
+    },
+    {
+      "date": "2004",
+      "value": 34.1,
+      "projected": false
+    },
+    {
+      "date": "2005",
+      "value": 33.8,
+      "projected": false
+    },
+    {
+      "date": "2006",
+      "value": 33.4,
+      "projected": false
+    },
+    {
+      "date": "2007",
+      "value": 33.0,
+      "projected": false
+    },
+    {
+      "date": "2008",
+      "value": 33.2,
+      "projected": false
+    },
+    {
+      "date": "2009",
+      "value": 32.8,
+      "projected": false
+    },
+    {
+      "date": "2010",
+      "value": 33.0,
+      "projected": false
+    },
+    {
+      "date": "2011",
+      "value": 33.3,
+      "projected": false
+    },
+    {
+      "date": "2012",
+      "value": 34.0,
+      "projected": false
+    },
+    {
+      "date": "2013",
+      "value": 34.2,
+      "projected": false
+    },
+    {
+      "date": "2014",
+      "value": 34.5,
+      "projected": false
+    },
+    {
+      "date": "2015",
+      "value": 34.8,
+      "projected": false
+    },
+    {
+      "date": "2016",
+      "value": 35.1,
+      "projected": false
+    },
+    {
+      "date": "2017",
+      "value": 35.3,
+      "projected": false
+    },
+    {
+      "date": "2018",
+      "value": 35.5,
+      "projected": false
+    },
+    {
+      "date": "2019",
+      "value": 35.2,
+      "projected": false
+    },
+    {
+      "date": "2020",
+      "value": 34.5,
+      "projected": false
+    },
+    {
+      "date": "2021",
+      "value": 34.2,
+      "projected": false
+    },
+    {
+      "date": "2022",
+      "value": 34.8,
+      "projected": false
+    },
+    {
+      "date": "2023",
+      "value": 35.4,
+      "projected": false
+    },
+    {
+      "date": "2024",
+      "value": 33.8,
+      "projected": false
+    },
+    {
+      "date": "2025",
+      "value": 33.5,
+      "projected": false
+    },
+    {
+      "date": "2026",
+      "value": 33.6,
+      "projected": true
+    },
+    {
+      "date": "2027",
+      "value": 33.8,
+      "projected": true
+    },
+    {
+      "date": "2028",
+      "value": 34.0,
+      "projected": true
+    },
+    {
+      "date": "2029",
+      "value": 34.2,
+      "projected": true
+    },
+    {
+      "date": "2030",
+      "value": 34.3,
+      "projected": true
+    },
+    {
+      "date": "2031",
+      "value": 34.5,
+      "projected": true
+    },
+    {
+      "date": "2032",
+      "value": 34.6,
+      "projected": true
+    },
+    {
+      "date": "2033",
+      "value": 34.7,
+      "projected": true
+    },
+    {
+      "date": "2034",
+      "value": 34.8,
+      "projected": true
+    },
+    {
+      "date": "2035",
+      "value": 34.9,
+      "projected": true
+    }
+  ],
+  "data_quality": "derived"
+}
