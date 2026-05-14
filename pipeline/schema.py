@@ -60,6 +60,8 @@ CATEGORIES = {
     "wellbeing":    {"label": "Wellbeing",    "color": "#27AE60"},
     "government":   {"label": "Government",   "color": "#8E44AD"},
     "environment":  {"label": "Environment",  "color": "#16A085"},
+    "health":       {"label": "Health",       "color": "#E91E8C"},
+    "health":       {"label": "Health",       "color": "#8B5CF6"},
 }
 
 # ── Indicator registry (all 46) ───────────────────────────────────────────────

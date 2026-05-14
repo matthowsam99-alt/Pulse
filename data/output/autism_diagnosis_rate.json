@@ -1,0 +1,150 @@
+{
+  "id": "autism_diagnosis_rate",
+  "label": "Autism diagnosis rate",
+  "category": "health",
+  "unit": "per_100k",
+  "unit_label": "",
+  "frequency": "annual",
+  "data_quality": "estimated",
+  "source": "AIHW / ABS Survey of Disability Ageing and Carers",
+  "source_url": "https://www.aihw.gov.au/autism",
+  "description": "Australians with an autism spectrum disorder diagnosis per 100,000 population. Has risen approximately 4-fold since 2009 \u2014 from around 75 to over 260 per 100,000.",
+  "explainer": "Autism diagnosis rates have increased dramatically since 2009. This almost certainly reflects expanded diagnostic criteria (DSM-5 broadened the definition in 2013), greater public awareness, reduced stigma, improved screening, and NDIS funding incentives for formal diagnosis \u2014 rather than a genuine biological increase. The 2023 ABS Survey found 1 in 40 Australians have an autism diagnosis. Do not interpret this as evidence of an autism epidemic without understanding the diagnostic expansion context.",
+  "projection_source": "AIHW projections based on current diagnostic trends and NDIS registration data.",
+  "first_year": 2003,
+  "last_updated": "2024",
+  "projection_start": "2026",
+  "notes": "IMPORTANT: The dramatic rise primarily reflects expanded diagnostic criteria (DSM-5 2013), greater awareness, reduced stigma and NDIS funding incentives \u2014 not necessarily a biological increase in prevalence.",
+  "series": [
+    {
+      "date": "2003",
+      "value": 40,
+      "projected": false
+    },
+    {
+      "date": "2004",
+      "value": 45,
+      "projected": false
+    },
+    {
+      "date": "2005",
+      "value": 50,
+      "projected": false
+    },
+    {
+      "date": "2006",
+      "value": 56,
+      "projected": false
+    },
+    {
+      "date": "2007",
+      "value": 62,
+      "projected": false
+    },
+    {
+      "date": "2008",
+      "value": 68,
+      "projected": false
+    },
+    {
+      "date": "2009",
+      "value": 75,
+      "projected": false
+    },
+    {
+      "date": "2010",
+      "value": 83,
+      "projected": false
+    },
+    {
+      "date": "2011",
+      "value": 92,
+      "projected": false
+    },
+    {
+      "date": "2012",
+      "value": 102,
+      "projected": false
+    },
+    {
+      "date": "2013",
+      "value": 115,
+      "projected": false
+    },
+    {
+      "date": "2014",
+      "value": 132,
+      "projected": false
+    },
+    {
+      "date": "2015",
+      "value": 148,
+      "projected": false
+    },
+    {
+      "date": "2016",
+      "value": 163,
+      "projected": false
+    },
+    {
+      "date": "2017",
+      "value": 176,
+      "projected": false
+    },
+    {
+      "date": "2018",
+      "value": 188,
+      "projected": false
+    },
+    {
+      "date": "2019",
+      "value": 199,
+      "projected": false
+    },
+    {
+      "date": "2020",
+      "value": 210,
+      "projected": false
+    },
+    {
+      "date": "2021",
+      "value": 222,
+      "projected": false
+    },
+    {
+      "date": "2022",
+      "value": 238,
+      "projected": false
+    },
+    {
+      "date": "2023",
+      "value": 252,
+      "projected": false
+    },
+    {
+      "date": "2024",
+      "value": 262,
+      "projected": false
+    },
+    {
+      "date": "2026",
+      "value": 278,
+      "projected": true
+    },
+    {
+      "date": "2028",
+      "value": 290,
+      "projected": true
+    },
+    {
+      "date": "2030",
+      "value": 300,
+      "projected": true
+    },
+    {
+      "date": "2035",
+      "value": 318,
+      "projected": true
+    }
+  ]
+}

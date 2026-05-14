@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated": "2026-05-12T00:48:20Z",
+  "generated": "2026-05-14",
   "categories": {
     "economy": {
       "label": "Economy",
@@ -25,9 +25,45 @@
     "environment": {
       "label": "Environment",
       "color": "#16A085"
+    },
+    "health": {
+      "label": "Health",
+      "color": "#8B5CF6"
     }
   },
   "indicators": [
+    {
+      "id": "alcohol_consumption",
+      "label": "Alcohol consumption per capita",
+      "category": "health",
+      "unit": "litres",
+      "unit_label": "L",
+      "available": true,
+      "last_updated": "2024",
+      "data_points": 29,
+      "first_year": 1975,
+      "source": "AIHW Alcohol and Other Drug Treatment Services",
+      "description": "Pure alcohol consumed per person aged 15 and over per year. One of the few health indicators showing a sustained positive trend \u2014 Australians are drinking significantly less than a generation ago.",
+      "frequency": "annual",
+      "data_quality": "estimated",
+      "real_adjusted": false
+    },
+    {
+      "id": "antidepressant_prescriptions",
+      "label": "Antidepressant prescriptions",
+      "category": "health",
+      "unit": "per_1000",
+      "unit_label": "",
+      "available": true,
+      "last_updated": "2024",
+      "data_points": 37,
+      "first_year": 1992,
+      "source": "AIHW Pharmaceutical Benefits Scheme",
+      "description": "Antidepressant prescriptions per 1,000 population dispensed under the PBS. Has tripled since 2000 \u2014 Australia is now among the highest prescribers in the OECD.",
+      "frequency": "annual",
+      "data_quality": "estimated",
+      "real_adjusted": false
+    },
     {
       "id": "asx200",
       "label": "ASX 200",
@@ -40,7 +76,41 @@
       "first_year": 1992,
       "source": "ASX / Yahoo Finance",
       "description": "The S&P/ASX 200 index \u2014 tracks the performance of the 200 largest companies listed on the Australian Securities Exchange by market capitalisation.",
-      "frequency": "monthly"
+      "frequency": "monthly",
+      "data_quality": "verified",
+      "real_adjusted": false
+    },
+    {
+      "id": "autism_diagnosis_rate",
+      "label": "Autism diagnosis rate",
+      "category": "health",
+      "unit": "per_100k",
+      "unit_label": "",
+      "available": true,
+      "last_updated": "2024",
+      "data_points": 26,
+      "first_year": 2003,
+      "source": "AIHW / ABS Survey of Disability Ageing and Carers",
+      "description": "Australians with an autism spectrum disorder diagnosis per 100,000 population. Has risen approximately 4-fold since 2009 \u2014 from around 75 to over 260 per 100,000.",
+      "frequency": "annual",
+      "data_quality": "estimated",
+      "real_adjusted": false
+    },
+    {
+      "id": "cancer_incidence",
+      "label": "Cancer incidence rate",
+      "category": "health",
+      "unit": "per_100k",
+      "unit_label": "",
+      "available": true,
+      "last_updated": "2024",
+      "data_points": 37,
+      "first_year": 1982,
+      "source": "AIHW Australian Cancer Incidence and Mortality",
+      "description": "Age-standardised incidence rate of all cancers combined per 100,000 population. Despite an ageing population, the overall rate has been stable or declining slightly since 2000.",
+      "frequency": "annual",
+      "data_quality": "estimated",
+      "real_adjusted": false
     },
     {
       "id": "cash_rate",
@@ -54,7 +124,9 @@
       "first_year": 1990,
       "source": "RBA Table A2",
       "description": "The Reserve Bank of Australia's official cash rate target \u2014 the interest rate banks charge each other for overnight loans, which flows through to mortgages, savings accounts and the broader economy.",
-      "frequency": "monthly"
+      "frequency": "monthly",
+      "data_quality": "verified",
+      "real_adjusted": false
     },
     {
       "id": "co2_emissions",
@@ -68,7 +140,9 @@
       "first_year": 1990,
       "source": "DCCEEW",
       "description": "Australia's total net greenhouse gas emissions in megatonnes of CO\u2082 equivalent per year, covering all sectors including energy, agriculture, transport and land use.",
-      "frequency": "annual"
+      "frequency": "annual",
+      "data_quality": "estimated",
+      "real_adjusted": false
     },
     {
       "id": "cpi",
@@ -82,7 +156,9 @@
       "first_year": 1975,
       "source": "ABS 6401.0",
       "description": "Consumer Price Index \u2014 measures the change in prices paid by Australian households for a fixed basket of goods and services. The RBA targets 2\u20133% annual CPI growth.",
-      "frequency": "quarterly"
+      "frequency": "quarterly",
+      "data_quality": "verified",
+      "real_adjusted": false
     },
     {
       "id": "electricity_price",
@@ -96,7 +172,9 @@
       "first_year": 1980,
       "source": "ABS 6401.0 (CPI Electricity) / AEMC",
       "description": "Average retail electricity price in cents per kilowatt-hour for Australian households. One of the most directly felt cost-of-living indicators.",
-      "frequency": "annual"
+      "frequency": "annual",
+      "data_quality": "verified",
+      "real_adjusted": false
     },
     {
       "id": "gdp_per_capita",
@@ -110,7 +188,9 @@
       "first_year": 1975,
       "source": "ABS 5206.0",
       "description": "Gross Domestic Product divided by population \u2014 the most commonly used measure of average living standards and economic output per person.",
-      "frequency": "annual"
+      "frequency": "annual",
+      "data_quality": "estimated",
+      "real_adjusted": false
     },
     {
       "id": "gini_coefficient",
@@ -124,7 +204,9 @@
       "first_year": 1981,
       "source": "OECD / ABS",
       "description": "A measure of income inequality within Australia. Ranges from 0 (perfect equality \u2014 everyone earns the same) to 1 (maximum inequality \u2014 one person earns everything). Australia's Gini is typically around 0.32\u20130.34.",
-      "frequency": "annual"
+      "frequency": "annual",
+      "data_quality": "estimated",
+      "real_adjusted": false
     },
     {
       "id": "gold_aud",
@@ -138,7 +220,9 @@
       "first_year": 1975,
       "source": "RBA Table G5",
       "description": "Gold spot price in Australian dollars per troy ounce. Gold is widely regarded as a store of value and a safe-haven asset during times of economic or geopolitical uncertainty.",
-      "frequency": "monthly"
+      "frequency": "monthly",
+      "data_quality": "verified",
+      "real_adjusted": false
     },
     {
       "id": "gross_govt_debt",
@@ -152,7 +236,9 @@
       "first_year": 1975,
       "source": "Treasury MYEFO / AOFM",
       "description": "Total face value of Australian Federal Government debt on issue in billions of dollars. Unlike net debt, this does not subtract government financial assets held against the borrowings.",
-      "frequency": "annual"
+      "frequency": "annual",
+      "data_quality": "verified",
+      "real_adjusted": false
     },
     {
       "id": "homelessness",
@@ -166,7 +252,9 @@
       "first_year": 2001,
       "source": "AIHW / ABS Census",
       "description": "Number of people experiencing homelessness per 100,000 population, as measured by the ABS Census. Includes rough sleepers, people in temporary accommodation, and those in severely overcrowded dwellings.",
-      "frequency": "annual"
+      "frequency": "annual",
+      "data_quality": "estimated",
+      "real_adjusted": false
     },
     {
       "id": "household_debt_ratio",
@@ -180,7 +268,9 @@
       "first_year": 1977,
       "source": "RBA Table E2",
       "description": "Total household debt (mortgages, personal loans, credit cards) as a percentage of annual household disposable income. Australia is consistently among the world's highest.",
-      "frequency": "quarterly"
+      "frequency": "quarterly",
+      "data_quality": "verified",
+      "real_adjusted": false
     },
     {
       "id": "housing_approvals",
@@ -194,7 +284,9 @@
       "first_year": 1983,
       "source": "ABS 8731.0",
       "description": "Monthly number of new residential dwelling building approvals issued by local councils \u2014 a leading indicator of future housing supply.",
-      "frequency": "monthly"
+      "frequency": "monthly",
+      "data_quality": "verified",
+      "real_adjusted": false
     },
     {
       "id": "life_expectancy",
@@ -208,7 +300,9 @@
       "first_year": 1975,
       "source": "AIHW / ABS",
       "description": "Life expectancy at birth, total persons \u2014 the average number of years a newborn would live if current mortality rates applied throughout their life.",
-      "frequency": "annual"
+      "frequency": "annual",
+      "data_quality": "estimated",
+      "real_adjusted": false
     },
     {
       "id": "m2_money_supply",
@@ -222,7 +316,9 @@
       "first_year": 1977,
       "source": "RBA Table D3",
       "description": "Broad money supply (M3) \u2014 the total amount of money in the Australian economy, including physical currency, bank deposits, and other liquid assets. Measured in billions of dollars.",
-      "frequency": "monthly"
+      "frequency": "monthly",
+      "data_quality": "verified",
+      "real_adjusted": false
     },
     {
       "id": "median_age",
@@ -236,7 +332,9 @@
       "first_year": 1975,
       "source": "ABS 3101.0",
       "description": "The median age of the Australian population \u2014 half the population is older than this, half is younger. A rising median age signals an ageing population.",
-      "frequency": "annual"
+      "frequency": "annual",
+      "data_quality": "estimated",
+      "real_adjusted": false
     },
     {
       "id": "median_house_price",
@@ -250,7 +348,9 @@
       "first_year": 1975,
       "source": "ABS 6416.0",
       "description": "Median residential property price across Australia's 8 capital cities, weighted average. Half of properties sell above this price, half below.",
-      "frequency": "quarterly"
+      "frequency": "quarterly",
+      "data_quality": "verified",
+      "real_adjusted": false
     },
     {
       "id": "median_tax_burden",
@@ -264,11 +364,13 @@
       "first_year": 1975,
       "source": "ATO tax tables + ABS 5512.0 (derived estimate)",
       "description": "Estimated total government tax burden on a median full-time worker as a percentage of gross wage \u2014 combining federal income tax, Medicare levy, GST and an allocation of state/local taxes and levies.",
-      "frequency": "annual"
+      "frequency": "annual",
+      "data_quality": "derived",
+      "real_adjusted": false
     },
     {
       "id": "median_wage",
-      "label": "Median wage",
+      "label": "Average weekly earnings",
       "category": "economy",
       "unit": "AUD",
       "unit_label": "$",
@@ -277,8 +379,26 @@
       "data_points": 61,
       "first_year": 1975,
       "source": "ABS 6310.0",
-      "description": "Median weekly earnings for full-time adult employees in Australia. This is the midpoint \u2014 half of workers earn more, half earn less.",
-      "frequency": "annual"
+      "description": "Average weekly ordinary time earnings for full-time adult employees in nominal dollars. Shows absolute pay levels but does not account for inflation \u2014 compare with CPI to see real purchasing power changes.",
+      "frequency": "annual",
+      "data_quality": "estimated",
+      "real_adjusted": false
+    },
+    {
+      "id": "mental_health_hospitalisations",
+      "label": "Mental health hospitalisations",
+      "category": "health",
+      "unit": "per_100k",
+      "unit_label": "",
+      "available": true,
+      "last_updated": "2024",
+      "data_points": 29,
+      "first_year": 1993,
+      "source": "AIHW Mental Health Services in Australia",
+      "description": "Mental health-related hospital admissions per 100,000 population where the principal diagnosis is a mental health condition.",
+      "frequency": "annual",
+      "data_quality": "estimated",
+      "real_adjusted": false
     },
     {
       "id": "net_govt_debt",
@@ -292,7 +412,9 @@
       "first_year": 1975,
       "source": "Treasury MYEFO / Budget",
       "description": "Australian Federal Government net debt as a percentage of GDP. Net debt = gross debt minus financial assets held by government (cash, investments). Expressed as % of GDP for comparability across time.",
-      "frequency": "annual"
+      "frequency": "annual",
+      "data_quality": "estimated",
+      "real_adjusted": false
     },
     {
       "id": "net_migration",
@@ -306,7 +428,25 @@
       "first_year": 1976,
       "source": "ABS 3101.0",
       "description": "Net overseas migration \u2014 the number of people arriving in Australia to stay 12+ months, minus those leaving. Includes skilled migrants, international students, working holiday makers and humanitarian entrants.",
-      "frequency": "annual"
+      "frequency": "annual",
+      "data_quality": "verified",
+      "real_adjusted": false
+    },
+    {
+      "id": "obesity_rate",
+      "label": "Obesity rate",
+      "category": "health",
+      "unit": "%",
+      "unit_label": "%",
+      "available": true,
+      "last_updated": "2024",
+      "data_points": 22,
+      "first_year": 1980,
+      "source": "ABS National Health Survey 4364.0 / AIHW",
+      "description": "Percentage of Australian adults (18+) classified as obese (BMI 30 or above). Age-standardised.",
+      "frequency": "annual",
+      "data_quality": "estimated",
+      "real_adjusted": false
     },
     {
       "id": "population",
@@ -320,7 +460,9 @@
       "first_year": 1975,
       "source": "ABS 3101.0",
       "description": "Estimated Resident Population of Australia \u2014 the total number of people living in Australia at a given time, including citizens, permanent residents and long-term visitors.",
-      "frequency": "annual"
+      "frequency": "annual",
+      "data_quality": "estimated",
+      "real_adjusted": false
     },
     {
       "id": "price_to_income",
@@ -334,7 +476,9 @@
       "first_year": 1975,
       "source": "ABS 6416.0 + ABS 6302.0 (derived)",
       "description": "Median house price divided by median annual household income \u2014 how many years of income it takes to buy a typical home. A ratio of 3x was historically considered affordable; above 5x is severely unaffordable.",
-      "frequency": "annual"
+      "frequency": "annual",
+      "data_quality": "derived",
+      "real_adjusted": false
     },
     {
       "id": "prison_population",
@@ -348,7 +492,9 @@
       "first_year": 1982,
       "source": "ABS 4517.0",
       "description": "Number of prisoners per 100,000 adult population. Includes sentenced prisoners and those on remand awaiting trial.",
-      "frequency": "annual"
+      "frequency": "annual",
+      "data_quality": "estimated",
+      "real_adjusted": false
     },
     {
       "id": "private_credit_growth",
@@ -362,7 +508,25 @@
       "first_year": 1977,
       "source": "RBA Table D1",
       "description": "Annual growth rate of total private sector credit \u2014 money borrowed by households and businesses from financial institutions.",
-      "frequency": "monthly"
+      "frequency": "monthly",
+      "data_quality": "verified",
+      "real_adjusted": false
+    },
+    {
+      "id": "psychological_distress",
+      "label": "Psychological distress rate",
+      "category": "health",
+      "unit": "%",
+      "unit_label": "%",
+      "available": true,
+      "last_updated": "2022",
+      "data_points": 28,
+      "first_year": 2001,
+      "source": "ABS National Health Survey 4364.0",
+      "description": "Percentage of adults reporting high or very high psychological distress (Kessler K10 score of 22+). Measured in ABS National Health Survey conducted every 3-4 years.",
+      "frequency": "annual",
+      "data_quality": "estimated",
+      "real_adjusted": false
     },
     {
       "id": "public_servants",
@@ -376,7 +540,9 @@
       "first_year": 1975,
       "source": "ABS 6248.0 Public Sector Employment and Earnings",
       "description": "Total public sector employee jobs across all levels of government \u2014 federal (Commonwealth), state/territory, and local government. Includes defence personnel, teachers, nurses, police, public administrators and all other government employees.",
-      "frequency": "annual"
+      "frequency": "annual",
+      "data_quality": "verified",
+      "real_adjusted": false
     },
     {
       "id": "renewable_energy",
@@ -390,7 +556,9 @@
       "first_year": 2001,
       "source": "AEMO / Clean Energy Regulator",
       "description": "Renewable energy as a percentage of total electricity generation from the National Electricity Market (NEM). Includes wind, solar (utility and rooftop), hydro and other renewables.",
-      "frequency": "annual"
+      "frequency": "annual",
+      "data_quality": "estimated",
+      "real_adjusted": false
     },
     {
       "id": "rental_vacancy",
@@ -404,7 +572,9 @@
       "first_year": 1980,
       "source": "REIA",
       "description": "The percentage of rental properties currently vacant and available for rent. A healthy rental market is typically considered to have a vacancy rate of around 3%.",
-      "frequency": "quarterly"
+      "frequency": "quarterly",
+      "data_quality": "verified",
+      "real_adjusted": false
     },
     {
       "id": "suicide_rate",
@@ -418,7 +588,9 @@
       "first_year": 1980,
       "source": "AIHW",
       "description": "Age-standardised suicide rate per 100,000 population. Age-standardisation allows meaningful comparison over time as the population ages.",
-      "frequency": "annual"
+      "frequency": "annual",
+      "data_quality": "estimated",
+      "real_adjusted": false
     },
     {
       "id": "tax_revenue_per_capita",
@@ -432,7 +604,9 @@
       "first_year": 1975,
       "source": "ABS 5512.0 Government Finance Statistics",
       "description": "Total government tax revenue per person across all levels \u2014 federal, state and local \u2014 in real (inflation-adjusted) 2022\u201323 dollars. Shows how much government collects in tax per Australian over time.",
-      "frequency": "annual"
+      "frequency": "annual",
+      "data_quality": "derived",
+      "real_adjusted": true
     },
     {
       "id": "temp_anomaly",
@@ -446,7 +620,9 @@
       "first_year": 1975,
       "source": "Bureau of Meteorology",
       "description": "Annual mean temperature anomaly for Australia relative to the 1961\u20131990 baseline average. A positive value means that year was warmer than the historical average.",
-      "frequency": "annual"
+      "frequency": "annual",
+      "data_quality": "estimated",
+      "real_adjusted": false
     },
     {
       "id": "terms_of_trade",
@@ -460,7 +636,9 @@
       "first_year": 1975,
       "source": "ABS 5302.0 / RBA",
       "description": "The ratio of export prices to import prices \u2014 how much imports Australia can purchase with a given volume of exports. A rising index means Australia's exports are becoming more valuable relative to what it imports.",
-      "frequency": "quarterly"
+      "frequency": "quarterly",
+      "data_quality": "verified",
+      "real_adjusted": false
     },
     {
       "id": "underemployment",
@@ -474,7 +652,9 @@
       "first_year": 1978,
       "source": "ABS 6202.0",
       "description": "The percentage of the labour force who are employed but working fewer hours than they want and are available to work more. A more complete measure of labour market slack than unemployment alone.",
-      "frequency": "annual"
+      "frequency": "annual",
+      "data_quality": "estimated",
+      "real_adjusted": false
     },
     {
       "id": "unemployment",
@@ -488,7 +668,9 @@
       "first_year": 1978,
       "source": "ABS 6202.0",
       "description": "The percentage of the labour force who are unemployed and actively seeking work. Seasonally adjusted.",
-      "frequency": "monthly"
+      "frequency": "monthly",
+      "data_quality": "verified",
+      "real_adjusted": false
     },
     {
       "id": "wage_price_index",
@@ -502,7 +684,9 @@
       "first_year": 1997,
       "source": "ABS 6345.0",
       "description": "The Wage Price Index measures changes in the price employers pay for labour, holding quality and quantity of work constant. Base: September 1997 = 100.",
-      "frequency": "quarterly"
+      "frequency": "quarterly",
+      "data_quality": "verified",
+      "real_adjusted": false
     }
   ]
 }

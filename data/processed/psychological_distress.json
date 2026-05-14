@@ -1,0 +1,160 @@
+{
+  "id": "psychological_distress",
+  "label": "Psychological distress rate",
+  "category": "health",
+  "unit": "%",
+  "unit_label": "%",
+  "frequency": "annual",
+  "data_quality": "estimated",
+  "source": "ABS National Health Survey 4364.0",
+  "source_url": "https://www.abs.gov.au/statistics/health/health-conditions-and-risks/national-health-survey",
+  "description": "Percentage of adults reporting high or very high psychological distress (Kessler K10 score of 22+). Measured in ABS National Health Survey conducted every 3-4 years.",
+  "explainer": "The K10 (Kessler Psychological Distress Scale) measures anxiety and depression symptoms. A score of 22+ indicates high distress. The rate was stable around 10-11% through the 2000s before climbing to nearly 15% by 2022. Young adults (18-34) show the steepest increase. Data is only collected in survey years \u2014 interpolated between points.",
+  "projection_source": "AIHW and ABS trend projections based on pre-Covid trajectory plus observed Covid-era acceleration.",
+  "first_year": 2001,
+  "last_updated": "2022",
+  "projection_start": "2026",
+  "notes": "K10 score 22+. ABS NHS survey years only (2001, 2004-05, 2007-08, 2011-12, 2014-15, 2017-18, 2020-21, 2022). Interpolated between survey years.",
+  "series": [
+    {
+      "date": "2001",
+      "value": 10.8,
+      "projected": false
+    },
+    {
+      "date": "2002",
+      "value": 10.9,
+      "projected": false
+    },
+    {
+      "date": "2003",
+      "value": 11.0,
+      "projected": false
+    },
+    {
+      "date": "2004",
+      "value": 11.0,
+      "projected": false
+    },
+    {
+      "date": "2005",
+      "value": 11.1,
+      "projected": false
+    },
+    {
+      "date": "2006",
+      "value": 11.2,
+      "projected": false
+    },
+    {
+      "date": "2007",
+      "value": 11.2,
+      "projected": false
+    },
+    {
+      "date": "2008",
+      "value": 11.3,
+      "projected": false
+    },
+    {
+      "date": "2009",
+      "value": 11.4,
+      "projected": false
+    },
+    {
+      "date": "2010",
+      "value": 11.5,
+      "projected": false
+    },
+    {
+      "date": "2011",
+      "value": 11.5,
+      "projected": false
+    },
+    {
+      "date": "2012",
+      "value": 11.8,
+      "projected": false
+    },
+    {
+      "date": "2013",
+      "value": 12.0,
+      "projected": false
+    },
+    {
+      "date": "2014",
+      "value": 12.2,
+      "projected": false
+    },
+    {
+      "date": "2015",
+      "value": 12.4,
+      "projected": false
+    },
+    {
+      "date": "2016",
+      "value": 12.6,
+      "projected": false
+    },
+    {
+      "date": "2017",
+      "value": 12.9,
+      "projected": false
+    },
+    {
+      "date": "2018",
+      "value": 13.2,
+      "projected": false
+    },
+    {
+      "date": "2019",
+      "value": 13.5,
+      "projected": false
+    },
+    {
+      "date": "2020",
+      "value": 14.8,
+      "projected": false
+    },
+    {
+      "date": "2021",
+      "value": 15.4,
+      "projected": false
+    },
+    {
+      "date": "2022",
+      "value": 14.9,
+      "projected": false
+    },
+    {
+      "date": "2023",
+      "value": 14.6,
+      "projected": false
+    },
+    {
+      "date": "2024",
+      "value": 14.4,
+      "projected": false
+    },
+    {
+      "date": "2026",
+      "value": 14.2,
+      "projected": true
+    },
+    {
+      "date": "2028",
+      "value": 14.0,
+      "projected": true
+    },
+    {
+      "date": "2030",
+      "value": 13.8,
+      "projected": true
+    },
+    {
+      "date": "2035",
+      "value": 13.5,
+      "projected": true
+    }
+  ]
+}

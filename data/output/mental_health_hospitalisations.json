@@ -1,0 +1,164 @@
+{
+  "id": "mental_health_hospitalisations",
+  "label": "Mental health hospitalisations",
+  "category": "health",
+  "unit": "per_100k",
+  "unit_label": "",
+  "frequency": "annual",
+  "data_quality": "estimated",
+  "source": "AIHW Mental Health Services in Australia",
+  "source_url": "https://www.aihw.gov.au/mental-health/topic-areas/hospitals",
+  "description": "Mental health-related hospital admissions per 100,000 population where the principal diagnosis is a mental health condition.",
+  "explainer": "Mental health hospitalisations represent the severe end of mental distress \u2014 crisis, acute psychosis, severe depression or suicide attempt. They have risen steadily since the 1990s and spiked sharply post-Covid. Emergency presentations for self-harm among young people rose dramatically in 2020-22. Overlaying with antidepressant prescriptions shows the full spectrum from treatment to crisis.",
+  "projection_source": "AIHW Mental Health Services projections. Assumes continued pressure on acute services.",
+  "first_year": 1993,
+  "last_updated": "2024",
+  "projection_start": "2026",
+  "series": [
+    {
+      "date": "1993",
+      "value": 320,
+      "projected": false
+    },
+    {
+      "date": "1995",
+      "value": 338,
+      "projected": false
+    },
+    {
+      "date": "1997",
+      "value": 355,
+      "projected": false
+    },
+    {
+      "date": "1999",
+      "value": 368,
+      "projected": false
+    },
+    {
+      "date": "2001",
+      "value": 382,
+      "projected": false
+    },
+    {
+      "date": "2003",
+      "value": 398,
+      "projected": false
+    },
+    {
+      "date": "2005",
+      "value": 415,
+      "projected": false
+    },
+    {
+      "date": "2007",
+      "value": 432,
+      "projected": false
+    },
+    {
+      "date": "2008",
+      "value": 445,
+      "projected": false
+    },
+    {
+      "date": "2009",
+      "value": 458,
+      "projected": false
+    },
+    {
+      "date": "2010",
+      "value": 472,
+      "projected": false
+    },
+    {
+      "date": "2011",
+      "value": 486,
+      "projected": false
+    },
+    {
+      "date": "2012",
+      "value": 498,
+      "projected": false
+    },
+    {
+      "date": "2013",
+      "value": 510,
+      "projected": false
+    },
+    {
+      "date": "2014",
+      "value": 522,
+      "projected": false
+    },
+    {
+      "date": "2015",
+      "value": 535,
+      "projected": false
+    },
+    {
+      "date": "2016",
+      "value": 548,
+      "projected": false
+    },
+    {
+      "date": "2017",
+      "value": 560,
+      "projected": false
+    },
+    {
+      "date": "2018",
+      "value": 572,
+      "projected": false
+    },
+    {
+      "date": "2019",
+      "value": 580,
+      "projected": false
+    },
+    {
+      "date": "2020",
+      "value": 562,
+      "projected": false
+    },
+    {
+      "date": "2021",
+      "value": 598,
+      "projected": false
+    },
+    {
+      "date": "2022",
+      "value": 642,
+      "projected": false
+    },
+    {
+      "date": "2023",
+      "value": 668,
+      "projected": false
+    },
+    {
+      "date": "2024",
+      "value": 680,
+      "projected": false
+    },
+    {
+      "date": "2026",
+      "value": 695,
+      "projected": true
+    },
+    {
+      "date": "2028",
+      "value": 710,
+      "projected": true
+    },
+    {
+      "date": "2030",
+      "value": 722,
+      "projected": true
+    },
+    {
+      "date": "2035",
+      "value": 748,
+      "projected": true
+    }
+  ]
+}

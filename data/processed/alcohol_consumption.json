@@ -1,0 +1,164 @@
+{
+  "id": "alcohol_consumption",
+  "label": "Alcohol consumption per capita",
+  "category": "health",
+  "unit": "litres",
+  "unit_label": "L",
+  "frequency": "annual",
+  "data_quality": "estimated",
+  "source": "AIHW Alcohol and Other Drug Treatment Services",
+  "source_url": "https://www.aihw.gov.au/alcohol",
+  "description": "Pure alcohol consumed per person aged 15 and over per year. One of the few health indicators showing a sustained positive trend \u2014 Australians are drinking significantly less than a generation ago.",
+  "explainer": "Alcohol consumption per capita has fallen steadily since peaking in the early 1980s \u2014 from around 13 litres per person to under 9 litres today. The decline is most pronounced among young Australians (18-24). Reasons include changed social attitudes, health awareness, non-alcoholic alternatives, and possibly substitution with other substances. This is one of the genuine public health success stories in Australian data. Worth overlaying with mental health indicators to see the complex picture.",
+  "projection_source": "AIHW alcohol consumption trend projections.",
+  "first_year": 1975,
+  "last_updated": "2024",
+  "projection_start": "2026",
+  "series": [
+    {
+      "date": "1975",
+      "value": 11.4,
+      "projected": false
+    },
+    {
+      "date": "1978",
+      "value": 12.4,
+      "projected": false
+    },
+    {
+      "date": "1980",
+      "value": 13.1,
+      "projected": false
+    },
+    {
+      "date": "1982",
+      "value": 12.8,
+      "projected": false
+    },
+    {
+      "date": "1985",
+      "value": 12.1,
+      "projected": false
+    },
+    {
+      "date": "1988",
+      "value": 11.5,
+      "projected": false
+    },
+    {
+      "date": "1990",
+      "value": 11.1,
+      "projected": false
+    },
+    {
+      "date": "1992",
+      "value": 10.6,
+      "projected": false
+    },
+    {
+      "date": "1995",
+      "value": 10.2,
+      "projected": false
+    },
+    {
+      "date": "1997",
+      "value": 10.0,
+      "projected": false
+    },
+    {
+      "date": "2000",
+      "value": 9.8,
+      "projected": false
+    },
+    {
+      "date": "2002",
+      "value": 9.9,
+      "projected": false
+    },
+    {
+      "date": "2004",
+      "value": 10.1,
+      "projected": false
+    },
+    {
+      "date": "2006",
+      "value": 10.2,
+      "projected": false
+    },
+    {
+      "date": "2008",
+      "value": 10.0,
+      "projected": false
+    },
+    {
+      "date": "2010",
+      "value": 9.7,
+      "projected": false
+    },
+    {
+      "date": "2012",
+      "value": 9.4,
+      "projected": false
+    },
+    {
+      "date": "2014",
+      "value": 9.2,
+      "projected": false
+    },
+    {
+      "date": "2016",
+      "value": 9.0,
+      "projected": false
+    },
+    {
+      "date": "2018",
+      "value": 8.8,
+      "projected": false
+    },
+    {
+      "date": "2019",
+      "value": 8.8,
+      "projected": false
+    },
+    {
+      "date": "2020",
+      "value": 9.2,
+      "projected": false
+    },
+    {
+      "date": "2021",
+      "value": 9.0,
+      "projected": false
+    },
+    {
+      "date": "2022",
+      "value": 8.9,
+      "projected": false
+    },
+    {
+      "date": "2023",
+      "value": 8.8,
+      "projected": false
+    },
+    {
+      "date": "2024",
+      "value": 8.7,
+      "projected": false
+    },
+    {
+      "date": "2026",
+      "value": 8.5,
+      "projected": true
+    },
+    {
+      "date": "2030",
+      "value": 8.1,
+      "projected": true
+    },
+    {
+      "date": "2035",
+      "value": 7.7,
+      "projected": true
+    }
+  ]
+}
