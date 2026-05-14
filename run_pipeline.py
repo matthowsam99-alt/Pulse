@@ -16,6 +16,7 @@ sys.path.insert(0, ROOT)
 
 from pipeline.fetchers.rba import run_all as run_rba
 from pipeline.fetchers.abs import run_all as run_abs
+from pipeline.fetchers.health import run_all as run_health
 from pipeline.schema import INDICATOR_REGISTRY, CATEGORIES
 
 PROCESSED_DIR = os.path.join(ROOT, "data", "processed")
@@ -131,6 +132,8 @@ def main():
 
     if args.source in ("abs", "all"):
         run_abs()
+
+    run_health()  # AIHW health indicators (hardcoded from published reports)
 
     copy_to_output()
     generate_manifest()
